@@ -1,0 +1,4055 @@
+values for 1 are : 
+beta : 2.90786e-23
+gamma : 3.8137e+13
+alpha : 1.10897e-09
+values for 2 are : 
+beta : 4.67804e-28
+gamma : 3.67704e+12
+alpha : 1.72013e-15
+values for 3 are : 
+beta : 8.9918e-24
+gamma : 2.82876e+11
+alpha : 2.54356e-12
+values for 4 are : 
+beta : 6.18569e-30
+gamma : 3.05305e+08
+alpha : 1.88852e-21
+values for 5 are : 
+beta : 1.7874e-26
+gamma : 1.41999e+13
+alpha : 2.53807e-13
+values for 6 are : 
+beta : 7.04026e-23
+gamma : 2.01818e+09
+alpha : 1.42085e-13
+values for 7 are : 
+beta : 5.56122e-25
+gamma : 9.98778e+09
+alpha : 5.55443e-15
+values for 8 are : 
+beta : 8.97538e-24
+gamma : 4.16113e+15
+alpha : 3.73478e-08
+values for 9 are : 
+beta : 3.68428e-26
+gamma : 4.38713e+13
+alpha : 1.61634e-12
+values for 10 are : 
+beta : 6.64419e-25
+gamma : 8.10391e+16
+alpha : 5.38438e-08
+values for 11 are : 
+beta : 9.05623e-23
+gamma : 1.55856e+09
+alpha : 1.41147e-13
+values for 12 are : 
+beta : 2.09333e-27
+gamma : 3.18037e+10
+alpha : 6.65755e-17
+values for 13 are : 
+beta : 8.92928e-29
+gamma : 1.4422e+09
+alpha : 1.28778e-19
+values for 14 are : 
+beta : 7.52496e-28
+gamma : 2.38112e+08
+alpha : 1.79179e-19
+values for 15 are : 
+beta : 1.10549e-29
+gamma : 3.11703e+08
+alpha : 3.44583e-21
+values for 16 are : 
+beta : 3.99741e-28
+gamma : 6.56386e+12
+alpha : 2.62384e-15
+values for 17 are : 
+beta : 1.10634e-27
+gamma : 2.8489e+12
+alpha : 3.15183e-15
+values for 18 are : 
+beta : 2.66148e-24
+gamma : 3.535e+17
+alpha : 9.40832e-07
+values for 19 are : 
+beta : 6.19383e-23
+gamma : 9.23133e+08
+alpha : 5.71772e-14
+values for 20 are : 
+beta : 2.45999e-23
+gamma : 1.0124e+17
+alpha : 2.49047e-06
+values for 21 are : 
+beta : 2.24302e-22
+gamma : 4.64817e+09
+alpha : 1.0426e-12
+values for 22 are : 
+beta : 5.794e-29
+gamma : 1.5614e+09
+alpha : 9.04673e-20
+values for 23 are : 
+beta : 2.10425e-24
+gamma : 2.18883e+09
+alpha : 4.60584e-15
+values for 24 are : 
+beta : 1.2974e-21
+gamma : 6.18548e+18
+alpha : 0.00802499
+values for 25 are : 
+beta : 1.8188e-28
+gamma : 1.01226e+10
+alpha : 1.8411e-18
+values for 26 are : 
+beta : 2.12096e-27
+gamma : 3.96889e+09
+alpha : 8.41786e-18
+values for 27 are : 
+beta : 9.4517e-26
+gamma : 9.96519e+17
+alpha : 9.41879e-08
+values for 28 are : 
+beta : 1.53252e-29
+gamma : 1.20857e+09
+alpha : 1.85215e-20
+values for 29 are : 
+beta : 2.45008e-21
+gamma : 2.4461e+15
+alpha : 5.99312e-06
+values for 30 are : 
+beta : 3.59004e-25
+gamma : 4.35748e+12
+alpha : 1.56435e-12
+values for 31 are : 
+beta : 2.10915e-24
+gamma : 3.82117e+08
+alpha : 8.05939e-16
+values for 32 are : 
+beta : 2.83246e-27
+gamma : 3.50365e+10
+alpha : 9.92393e-17
+values for 33 are : 
+beta : 1.84112e-27
+gamma : 5.39209e+09
+alpha : 9.92747e-18
+values for 34 are : 
+beta : 2.90353e-27
+gamma : 4.59581e+10
+alpha : 1.33441e-16
+failcount is 1
+values for 35 are : 
+beta : 1.3137e-20
+gamma : 9.96405e+18
+alpha : 0.130897
+values for 36 are : 
+beta : 3.87442e-21
+gamma : 1.52053e+15
+alpha : 5.89115e-06
+values for 37 are : 
+beta : 2.59762e-27
+gamma : 2.89797e+13
+alpha : 7.52779e-14
+values for 38 are : 
+beta : 6.43132e-23
+gamma : 3.35219e+09
+alpha : 2.1559e-13
+values for 39 are : 
+beta : 2.54322e-25
+gamma : 2.1814e+10
+alpha : 5.54777e-15
+values for 40 are : 
+beta : 1.03935e-26
+gamma : 7.29547e+15
+alpha : 7.58249e-11
+values for 41 are : 
+beta : 6.19421e-24
+gamma : 2.75781e+11
+alpha : 1.70825e-12
+values for 42 are : 
+beta : 2.54727e-23
+gamma : 6.27112e+10
+alpha : 1.59742e-12
+values for 43 are : 
+beta : 3.33806e-23
+gamma : 1.24001e+16
+alpha : 4.13921e-07
+values for 44 are : 
+beta : 3.8498e-25
+gamma : 1.05784e+12
+alpha : 4.07246e-13
+values for 45 are : 
+beta : 9.49379e-30
+gamma : 1.20417e+09
+alpha : 1.14321e-20
+values for 46 are : 
+beta : 5.21744e-25
+gamma : 1.74108e+17
+alpha : 9.08394e-08
+values for 47 are : 
+beta : 2.42832e-23
+gamma : 2.91872e+20
+alpha : 0.00708754
+values for 48 are : 
+beta : 3.25877e-23
+gamma : 9.1301e+16
+alpha : 2.97529e-06
+values for 49 are : 
+beta : 1.12625e-24
+gamma : 4.47983e+17
+alpha : 5.04539e-07
+failcount is 2
+values for 50 are : 
+beta : 2.90581e-21
+gamma : 2.10892e+22
+alpha : 61.2809
+values for 51 are : 
+beta : 7.71055e-25
+gamma : 4.91514e+12
+alpha : 3.78984e-12
+values for 52 are : 
+beta : 8.34625e-27
+gamma : 9.69041e+08
+alpha : 8.08785e-18
+values for 53 are : 
+beta : 1.29782e-24
+gamma : 1.1117e+17
+alpha : 1.44277e-07
+values for 54 are : 
+beta : 1.73354e-25
+gamma : 6.62683e+11
+alpha : 1.14879e-13
+values for 55 are : 
+beta : 3.05176e-24
+gamma : 1.67414e+12
+alpha : 5.10904e-12
+values for 56 are : 
+beta : 1.67839e-21
+gamma : 5.64936e+17
+alpha : 0.000948181
+values for 57 are : 
+beta : 6.57459e-25
+gamma : 1.40307e+16
+alpha : 9.22456e-09
+values for 58 are : 
+beta : 3.08676e-26
+gamma : 2.54945e+09
+alpha : 7.86951e-17
+values for 59 are : 
+beta : 3.0561e-23
+gamma : 4.51823e+09
+alpha : 1.38082e-13
+values for 60 are : 
+beta : 6.41889e-24
+gamma : 1.1066e+17
+alpha : 7.10312e-07
+values for 61 are : 
+beta : 9.5171e-27
+gamma : 7.3842e+11
+alpha : 7.02762e-15
+values for 62 are : 
+beta : 6.16391e-28
+gamma : 6.02292e+10
+alpha : 3.71247e-17
+values for 63 are : 
+beta : 2.72612e-27
+gamma : 6.6844e+10
+alpha : 1.82225e-16
+values for 64 are : 
+beta : 1.64482e-29
+gamma : 2.07741e+09
+alpha : 3.41694e-20
+values for 65 are : 
+beta : 5.18597e-27
+gamma : 4.19896e+10
+alpha : 2.17756e-16
+failcount is 3
+values for 66 are : 
+beta : 1.84455e-19
+gamma : 3.82061e+17
+alpha : 0.0704727
+values for 67 are : 
+beta : 2.17218e-23
+gamma : 6.93423e+17
+alpha : 1.50624e-05
+values for 68 are : 
+beta : 4.8158e-26
+gamma : 2.15954e+11
+alpha : 1.03999e-14
+values for 69 are : 
+beta : 4.96608e-30
+gamma : 1.78496e+08
+alpha : 8.86422e-22
+values for 70 are : 
+beta : 2.21813e-24
+gamma : 5.25632e+11
+alpha : 1.16592e-12
+values for 71 are : 
+beta : 3.84757e-28
+gamma : 1.30374e+10
+alpha : 5.01622e-18
+values for 72 are : 
+beta : 1.24309e-26
+gamma : 2.73833e+18
+alpha : 3.40399e-08
+values for 73 are : 
+beta : 1.47607e-28
+gamma : 1.64074e+09
+alpha : 2.42183e-19
+values for 74 are : 
+beta : 1.21572e-25
+gamma : 9.81538e+09
+alpha : 1.19328e-15
+failcount is 4
+values for 75 are : 
+beta : 2.04539e-15
+gamma : 7.76447e+19
+alpha : 158814
+values for 76 are : 
+beta : 7.5781e-26
+gamma : 4.00113e+15
+alpha : 3.03209e-10
+values for 77 are : 
+beta : 2.03238e-28
+gamma : 2.66849e+09
+alpha : 5.42338e-19
+values for 78 are : 
+beta : 1.44499e-23
+gamma : 5.42703e+15
+alpha : 7.84195e-08
+values for 79 are : 
+beta : 1.13306e-26
+gamma : 6.19526e+10
+alpha : 7.01959e-16
+values for 80 are : 
+beta : 2.14108e-23
+gamma : 1.8786e+10
+alpha : 4.02221e-13
+values for 81 are : 
+beta : 4.28167e-27
+gamma : 1.52076e+10
+alpha : 6.51136e-17
+values for 82 are : 
+beta : 2.37422e-27
+gamma : 6.9232e+10
+alpha : 1.64372e-16
+values for 83 are : 
+beta : 3.37166e-23
+gamma : 2.65275e+09
+alpha : 8.94417e-14
+values for 84 are : 
+beta : 6.83279e-28
+gamma : 6.6936e+10
+alpha : 4.57359e-17
+values for 85 are : 
+beta : 8.71163e-25
+gamma : 1.29567e+11
+alpha : 1.12874e-13
+values for 86 are : 
+beta : 3.17272e-25
+gamma : 2.12135e+15
+alpha : 6.73044e-10
+values for 87 are : 
+beta : 2.30095e-28
+gamma : 6.2657e+13
+alpha : 1.4417e-14
+values for 88 are : 
+beta : 9.2934e-24
+gamma : 1.04511e+16
+alpha : 9.71258e-08
+values for 89 are : 
+beta : 6.443e-29
+gamma : 1.70805e+09
+alpha : 1.10049e-19
+values for 90 are : 
+beta : 2.30525e-29
+gamma : 1.28362e+10
+alpha : 2.95905e-19
+values for 91 are : 
+beta : 6.20833e-28
+gamma : 4.76759e+14
+alpha : 2.95988e-13
+values for 92 are : 
+beta : 1.2151e-28
+gamma : 1.5204e+10
+alpha : 1.84743e-18
+values for 93 are : 
+beta : 7.23383e-25
+gamma : 4.0262e+21
+alpha : 0.00291248
+failcount is 5
+values for 94 are : 
+beta : 1.5002e-21
+gamma : 8.32516e+19
+alpha : 0.124894
+values for 95 are : 
+beta : 1.45853e-24
+gamma : 2.90938e+11
+alpha : 4.24339e-13
+values for 96 are : 
+beta : 8.69666e-26
+gamma : 1.40344e+14
+alpha : 1.22053e-11
+values for 97 are : 
+beta : 1.92224e-25
+gamma : 3.83469e+11
+alpha : 7.37118e-14
+values for 98 are : 
+beta : 7.90187e-25
+gamma : 1.47313e+11
+alpha : 1.16405e-13
+values for 99 are : 
+beta : 3.76405e-22
+gamma : 7.19375e+15
+alpha : 2.70776e-06
+values for 100 are : 
+beta : 3.9079e-25
+gamma : 1.05878e+13
+alpha : 4.13757e-12
+values for 101 are : 
+beta : 1.04937e-26
+gamma : 1.643e+10
+alpha : 1.72411e-16
+values for 102 are : 
+beta : 3.67534e-26
+gamma : 1.51023e+12
+alpha : 5.55059e-14
+values for 103 are : 
+beta : 5.70269e-29
+gamma : 2.14406e+09
+alpha : 1.22269e-19
+values for 104 are : 
+beta : 4.61327e-23
+gamma : 6.89105e+10
+alpha : 3.17903e-12
+values for 105 are : 
+beta : 6.87295e-29
+gamma : 4.44379e+08
+alpha : 3.05419e-20
+values for 106 are : 
+beta : 6.57918e-24
+gamma : 6.99932e+09
+alpha : 4.60498e-14
+values for 107 are : 
+beta : 6.31296e-22
+gamma : 7.62429e+14
+alpha : 4.81318e-07
+values for 108 are : 
+beta : 2.24215e-21
+gamma : 9.88791e+11
+alpha : 2.21702e-09
+values for 109 are : 
+beta : 1.82592e-23
+gamma : 7.69864e+12
+alpha : 1.40571e-10
+values for 110 are : 
+beta : 5.87272e-21
+gamma : 2.38537e+12
+alpha : 1.40086e-08
+failcount is 6
+values for 111 are : 
+beta : 6.46796e-19
+gamma : 7.38103e+22
+alpha : 47740.2
+failcount is 7
+values for 112 are : 
+beta : 8.30973e-21
+gamma : 6.61614e+18
+alpha : 0.0549783
+values for 113 are : 
+beta : 4.18719e-27
+gamma : 6.69014e+14
+alpha : 2.80129e-12
+values for 114 are : 
+beta : 1.15486e-25
+gamma : 4.26664e+14
+alpha : 4.92733e-11
+values for 115 are : 
+beta : 3.59679e-29
+gamma : 6.02946e+09
+alpha : 2.16867e-19
+values for 116 are : 
+beta : 4.46877e-23
+gamma : 1.00545e+13
+alpha : 4.49309e-10
+values for 117 are : 
+beta : 7.92432e-27
+gamma : 6.14456e+11
+alpha : 4.86914e-15
+values for 118 are : 
+beta : 3.04716e-25
+gamma : 3.46001e+18
+alpha : 1.05432e-06
+values for 119 are : 
+beta : 7.34131e-30
+gamma : 9.53526e+07
+alpha : 7.00013e-22
+values for 120 are : 
+beta : 4.07133e-21
+gamma : 9.39695e+17
+alpha : 0.0038258
+values for 121 are : 
+beta : 1.01961e-28
+gamma : 4.18926e+09
+alpha : 4.27141e-19
+values for 122 are : 
+beta : 2.53564e-28
+gamma : 7.77024e+11
+alpha : 1.97025e-16
+values for 123 are : 
+beta : 6.0042e-30
+gamma : 2.37207e+10
+alpha : 1.42424e-19
+values for 124 are : 
+beta : 5.77848e-27
+gamma : 4.21345e+08
+alpha : 2.43473e-18
+values for 125 are : 
+beta : 3.06567e-27
+gamma : 9.1702e+13
+alpha : 2.81128e-13
+values for 126 are : 
+beta : 9.26964e-23
+gamma : 1.52535e+16
+alpha : 1.41394e-06
+values for 127 are : 
+beta : 2.97038e-29
+gamma : 1.4135e+10
+alpha : 4.19861e-19
+values for 128 are : 
+beta : 5.19222e-28
+gamma : 1.33728e+10
+alpha : 6.94343e-18
+values for 129 are : 
+beta : 1.87654e-25
+gamma : 4.53763e+08
+alpha : 8.51503e-17
+failcount is 8
+values for 130 are : 
+beta : 1.08107e-19
+gamma : 1.17731e+20
+alpha : 12.7274
+values for 131 are : 
+beta : 4.94599e-22
+gamma : 1.23512e+11
+alpha : 6.10888e-11
+values for 132 are : 
+beta : 6.46512e-25
+gamma : 1.83038e+16
+alpha : 1.18337e-08
+values for 133 are : 
+beta : 1.12344e-21
+gamma : 1.51015e+16
+alpha : 1.69656e-05
+values for 134 are : 
+beta : 2.6145e-25
+gamma : 5.49622e+11
+alpha : 1.43699e-13
+values for 135 are : 
+beta : 7.90849e-25
+gamma : 1.38485e+08
+alpha : 1.09521e-16
+values for 136 are : 
+beta : 3.45422e-26
+gamma : 2.37655e+12
+alpha : 8.20908e-14
+values for 137 are : 
+beta : 1.08933e-27
+gamma : 3.14172e+08
+alpha : 3.42236e-19
+values for 138 are : 
+beta : 1.03146e-24
+gamma : 9.18717e+12
+alpha : 9.47617e-12
+values for 139 are : 
+beta : 5.52236e-27
+gamma : 5.14567e+12
+alpha : 2.84163e-14
+failcount is 9
+values for 140 are : 
+beta : 1.08949e-19
+gamma : 3.38017e+18
+alpha : 0.368264
+values for 141 are : 
+beta : 6.67537e-25
+gamma : 1.0919e+11
+alpha : 7.2888e-14
+values for 142 are : 
+beta : 9.1303e-28
+gamma : 1.12894e+10
+alpha : 1.03075e-17
+values for 143 are : 
+beta : 7.27278e-22
+gamma : 1.28112e+17
+alpha : 9.31726e-05
+values for 144 are : 
+beta : 8.74236e-25
+gamma : 1.9736e+14
+alpha : 1.72539e-10
+values for 145 are : 
+beta : 8.61657e-26
+gamma : 8.1831e+13
+alpha : 7.05103e-12
+values for 146 are : 
+beta : 5.16055e-27
+gamma : 3.99775e+17
+alpha : 2.06306e-09
+values for 147 are : 
+beta : 2.61003e-27
+gamma : 2.191e+15
+alpha : 5.71855e-12
+failcount is 10
+values for 148 are : 
+beta : 1.96717e-22
+gamma : 1.20477e+21
+alpha : 0.236999
+values for 149 are : 
+beta : 8.10962e-29
+gamma : 1.03879e+09
+alpha : 8.42419e-20
+values for 150 are : 
+beta : 3.22771e-30
+gamma : 2.20876e+08
+alpha : 7.12922e-22
+values for 151 are : 
+beta : 2.28161e-26
+gamma : 3.4354e+13
+alpha : 7.83822e-13
+values for 152 are : 
+beta : 9.67017e-29
+gamma : 5.56253e+08
+alpha : 5.37905e-20
+values for 153 are : 
+beta : 6.91325e-27
+gamma : 1.69687e+12
+alpha : 1.17309e-14
+values for 154 are : 
+beta : 1.42066e-23
+gamma : 7.74969e+13
+alpha : 1.10096e-09
+values for 155 are : 
+beta : 9.28504e-26
+gamma : 1.4223e+16
+alpha : 1.32061e-09
+values for 156 are : 
+beta : 5.06647e-24
+gamma : 1.12419e+13
+alpha : 5.69566e-11
+values for 157 are : 
+beta : 5.7961e-25
+gamma : 8.8403e+09
+alpha : 5.12392e-15
+values for 158 are : 
+beta : 1.06468e-29
+gamma : 1.94927e+10
+alpha : 2.07534e-19
+values for 159 are : 
+beta : 6.19554e-27
+gamma : 6.06906e+11
+alpha : 3.76011e-15
+values for 160 are : 
+beta : 1.07409e-26
+gamma : 4.64768e+09
+alpha : 4.99202e-17
+values for 161 are : 
+beta : 1.19406e-24
+gamma : 4.72982e+11
+alpha : 5.64764e-13
+values for 162 are : 
+beta : 4.71755e-26
+gamma : 5.71783e+09
+alpha : 2.69742e-16
+values for 163 are : 
+beta : 7.84957e-28
+gamma : 8.77877e+11
+alpha : 6.89096e-16
+failcount is 11
+values for 164 are : 
+beta : 4.91619e-18
+gamma : 9.51485e+19
+alpha : 467.768
+values for 165 are : 
+beta : 6.80723e-28
+gamma : 1.17298e+09
+alpha : 7.9847e-19
+values for 166 are : 
+beta : 8.7924e-26
+gamma : 1.06423e+16
+alpha : 9.35709e-10
+values for 167 are : 
+beta : 1.846e-21
+gamma : 8.63318e+14
+alpha : 1.59369e-06
+values for 168 are : 
+beta : 1.72458e-29
+gamma : 5.84759e+08
+alpha : 1.00846e-20
+values for 169 are : 
+beta : 2.76352e-23
+gamma : 1.6988e+10
+alpha : 4.69464e-13
+values for 170 are : 
+beta : 6.09918e-27
+gamma : 1.34086e+14
+alpha : 8.17812e-13
+values for 171 are : 
+beta : 8.85357e-26
+gamma : 1.37403e+19
+alpha : 1.21651e-06
+values for 172 are : 
+beta : 7.54795e-26
+gamma : 8.29595e+10
+alpha : 6.26174e-15
+values for 173 are : 
+beta : 5.53482e-28
+gamma : 6.56251e+10
+alpha : 3.63223e-17
+values for 174 are : 
+beta : 4.64824e-22
+gamma : 8.33337e+12
+alpha : 3.87355e-09
+values for 175 are : 
+beta : 2.13743e-26
+gamma : 6.60636e+17
+alpha : 1.41207e-08
+values for 176 are : 
+beta : 1.24836e-19
+gamma : 4.17877e+16
+alpha : 0.00521659
+values for 177 are : 
+beta : 1.69561e-26
+gamma : 3.26163e+14
+alpha : 5.53042e-12
+values for 178 are : 
+beta : 3.03829e-24
+gamma : 2.99408e+18
+alpha : 9.09686e-06
+failcount is 12
+values for 179 are : 
+beta : 3.45849e-12
+gamma : 4.20213e+21
+alpha : 1.4533e+10
+values for 180 are : 
+beta : 4.27545e-28
+gamma : 4.29394e+09
+alpha : 1.83585e-18
+values for 181 are : 
+beta : 9.57481e-24
+gamma : 5.7952e+09
+alpha : 5.54879e-14
+values for 182 are : 
+beta : 2.63367e-27
+gamma : 7.27661e+10
+alpha : 1.91642e-16
+values for 183 are : 
+beta : 9.49971e-26
+gamma : 1.84048e+08
+alpha : 1.7484e-17
+values for 184 are : 
+beta : 7.28879e-27
+gamma : 3.60479e+11
+alpha : 2.62746e-15
+values for 185 are : 
+beta : 3.17103e-29
+gamma : 1.90645e+09
+alpha : 6.04538e-20
+values for 186 are : 
+beta : 5.9403e-28
+gamma : 5.74475e+11
+alpha : 3.41255e-16
+values for 187 are : 
+beta : 2.74971e-25
+gamma : 1.0044e+18
+alpha : 2.76179e-07
+values for 188 are : 
+beta : 5.85578e-27
+gamma : 2.28037e+11
+alpha : 1.33534e-15
+values for 189 are : 
+beta : 3.73004e-29
+gamma : 5.56929e+08
+alpha : 2.07737e-20
+values for 190 are : 
+beta : 2.60286e-29
+gamma : 2.70366e+10
+alpha : 7.03721e-19
+values for 191 are : 
+beta : 3.43597e-25
+gamma : 2.40757e+09
+alpha : 8.27233e-16
+values for 192 are : 
+beta : 9.06166e-28
+gamma : 9.75319e+12
+alpha : 8.83801e-15
+values for 193 are : 
+beta : 2.39808e-22
+gamma : 3.54481e+18
+alpha : 0.00085007
+values for 194 are : 
+beta : 2.96079e-23
+gamma : 1.43228e+15
+alpha : 4.24066e-08
+values for 195 are : 
+beta : 6.9198e-28
+gamma : 6.97181e+10
+alpha : 4.82435e-17
+values for 196 are : 
+beta : 1.87693e-25
+gamma : 2.19037e+08
+alpha : 4.11115e-17
+values for 197 are : 
+beta : 2.25004e-25
+gamma : 1.24406e+11
+alpha : 2.79916e-14
+values for 198 are : 
+beta : 4.72954e-21
+gamma : 2.5716e+18
+alpha : 0.0121625
+values for 199 are : 
+beta : 1.48743e-25
+gamma : 4.16031e+11
+alpha : 6.18813e-14
+values for 200 are : 
+beta : 5.8307e-26
+gamma : 1.41437e+14
+alpha : 8.24677e-12
+values for 201 are : 
+beta : 3.86564e-21
+gamma : 1.37968e+11
+alpha : 5.33334e-10
+values for 202 are : 
+beta : 1.76769e-27
+gamma : 2.59995e+11
+alpha : 4.59589e-16
+values for 203 are : 
+beta : 3.96693e-28
+gamma : 1.24242e+13
+alpha : 4.92857e-15
+values for 204 are : 
+beta : 2.9403e-28
+gamma : 7.61756e+09
+alpha : 2.23979e-18
+values for 205 are : 
+beta : 5.32795e-28
+gamma : 1.2539e+11
+alpha : 6.68071e-17
+values for 206 are : 
+beta : 2.03283e-23
+gamma : 3.46826e+16
+alpha : 7.05035e-07
+values for 207 are : 
+beta : 6.00504e-25
+gamma : 9.72288e+18
+alpha : 5.83863e-06
+values for 208 are : 
+beta : 5.56332e-21
+gamma : 9.80833e+13
+alpha : 5.45668e-07
+values for 209 are : 
+beta : 2.84076e-27
+gamma : 4.84873e+10
+alpha : 1.37741e-16
+values for 210 are : 
+beta : 1.91669e-27
+gamma : 8.47446e+11
+alpha : 1.62429e-15
+values for 211 are : 
+beta : 3.05693e-28
+gamma : 7.16239e+09
+alpha : 2.18949e-18
+values for 212 are : 
+beta : 1.45696e-29
+gamma : 7.62867e+09
+alpha : 1.11147e-19
+values for 213 are : 
+beta : 1.60761e-28
+gamma : 9.36095e+11
+alpha : 1.50487e-16
+values for 214 are : 
+beta : 3.73277e-29
+gamma : 6.14263e+08
+alpha : 2.2929e-20
+values for 215 are : 
+beta : 1.36076e-26
+gamma : 2.86605e+15
+alpha : 3.9e-11
+values for 216 are : 
+beta : 8.99928e-23
+gamma : 2.71084e+13
+alpha : 2.43956e-09
+values for 217 are : 
+beta : 2.30626e-26
+gamma : 1.44634e+11
+alpha : 3.33563e-15
+values for 218 are : 
+beta : 1.37418e-24
+gamma : 6.44665e+10
+alpha : 8.8588e-14
+values for 219 are : 
+beta : 8.27071e-23
+gamma : 1.15762e+17
+alpha : 9.57427e-06
+values for 220 are : 
+beta : 3.40451e-23
+gamma : 2.32098e+13
+alpha : 7.90176e-10
+values for 221 are : 
+beta : 2.42201e-24
+gamma : 1.37304e+12
+alpha : 3.3255e-12
+values for 222 are : 
+beta : 6.508e-23
+gamma : 4.2037e+19
+alpha : 0.00273577
+values for 223 are : 
+beta : 6.51314e-25
+gamma : 1.16079e+09
+alpha : 7.56034e-16
+values for 224 are : 
+beta : 7.18074e-27
+gamma : 3.17861e+15
+alpha : 2.28248e-11
+values for 225 are : 
+beta : 1.09183e-24
+gamma : 7.1542e+08
+alpha : 7.81111e-16
+values for 226 are : 
+beta : 3.87962e-22
+gamma : 1.19203e+16
+alpha : 4.62459e-06
+values for 227 are : 
+beta : 6.25413e-26
+gamma : 3.16892e+09
+alpha : 1.98188e-16
+values for 228 are : 
+beta : 1.29877e-22
+gamma : 1.97199e+17
+alpha : 2.56115e-05
+values for 229 are : 
+beta : 8.11725e-25
+gamma : 4.80112e+10
+alpha : 3.89719e-14
+failcount is 13
+values for 230 are : 
+beta : 1.79373e-19
+gamma : 5.43383e+17
+alpha : 0.0974681
+values for 231 are : 
+beta : 1.61535e-24
+gamma : 1.15884e+12
+alpha : 1.87192e-12
+values for 232 are : 
+beta : 1.13115e-29
+gamma : 4.8165e+09
+alpha : 5.44816e-20
+values for 233 are : 
+beta : 3.72511e-27
+gamma : 4.82162e+20
+alpha : 1.79611e-06
+values for 234 are : 
+beta : 4.19531e-26
+gamma : 1.35925e+16
+alpha : 5.70244e-10
+values for 235 are : 
+beta : 5.85572e-30
+gamma : 2.1031e+08
+alpha : 1.23152e-21
+values for 236 are : 
+beta : 9.80681e-26
+gamma : 4.33302e+16
+alpha : 4.2493e-09
+values for 237 are : 
+beta : 2.33219e-24
+gamma : 1.51834e+10
+alpha : 3.54104e-14
+values for 238 are : 
+beta : 7.82042e-29
+gamma : 8.42431e+10
+alpha : 6.58816e-18
+values for 239 are : 
+beta : 7.36203e-22
+gamma : 4.49706e+14
+alpha : 3.31075e-07
+values for 240 are : 
+beta : 6.70993e-27
+gamma : 2.47189e+09
+alpha : 1.65862e-17
+values for 241 are : 
+beta : 2.10043e-25
+gamma : 1.68129e+14
+alpha : 3.53143e-11
+failcount is 14
+values for 242 are : 
+beta : 2.19384e-20
+gamma : 2.47522e+18
+alpha : 0.054302
+values for 243 are : 
+beta : 5.73159e-27
+gamma : 2.27074e+12
+alpha : 1.3015e-14
+values for 244 are : 
+beta : 8.06632e-24
+gamma : 1.30645e+11
+alpha : 1.05383e-12
+values for 245 are : 
+beta : 2.23357e-29
+gamma : 2.03868e+08
+alpha : 4.55352e-21
+values for 246 are : 
+beta : 3.04467e-25
+gamma : 5.58715e+11
+alpha : 1.7011e-13
+values for 247 are : 
+beta : 1.18668e-26
+gamma : 3.95332e+18
+alpha : 4.6913e-08
+values for 248 are : 
+beta : 4.76536e-25
+gamma : 2.03175e+13
+alpha : 9.682e-12
+values for 249 are : 
+beta : 4.04128e-28
+gamma : 3.09402e+10
+alpha : 1.25038e-17
+values for 250 are : 
+beta : 1.03224e-22
+gamma : 4.92227e+14
+alpha : 5.08093e-08
+values for 251 are : 
+beta : 2.26282e-22
+gamma : 1.16258e+13
+alpha : 2.6307e-09
+values for 252 are : 
+beta : 2.35493e-20
+gamma : 6.00167e+15
+alpha : 0.000141335
+values for 253 are : 
+beta : 2.19075e-28
+gamma : 1.87928e+09
+alpha : 4.11703e-19
+values for 254 are : 
+beta : 4.76241e-22
+gamma : 1.0359e+18
+alpha : 0.000493338
+values for 255 are : 
+beta : 1.15026e-28
+gamma : 4.29256e+08
+alpha : 4.93752e-20
+values for 256 are : 
+beta : 5.59806e-26
+gamma : 3.26054e+15
+alpha : 1.82527e-10
+values for 257 are : 
+beta : 1.28166e-26
+gamma : 4.64492e+12
+alpha : 5.95321e-14
+values for 258 are : 
+beta : 1.22102e-29
+gamma : 3.18638e+08
+alpha : 3.89061e-21
+values for 259 are : 
+beta : 3.10313e-25
+gamma : 2.25751e+17
+alpha : 7.00532e-08
+values for 260 are : 
+beta : 1.4706e-28
+gamma : 1.04515e+09
+alpha : 1.53699e-19
+values for 261 are : 
+beta : 1.92295e-23
+gamma : 1.99115e+10
+alpha : 3.82887e-13
+failcount is 15
+values for 262 are : 
+beta : 2.68185e-17
+gamma : 6.27722e+21
+alpha : 168346
+values for 263 are : 
+beta : 7.52521e-24
+gamma : 8.53659e+17
+alpha : 6.42396e-06
+values for 264 are : 
+beta : 3.78059e-27
+gamma : 8.26948e+08
+alpha : 3.12635e-18
+values for 265 are : 
+beta : 4.02969e-27
+gamma : 6.67564e+14
+alpha : 2.69008e-12
+values for 266 are : 
+beta : 8.54543e-26
+gamma : 8.9478e+08
+alpha : 7.64628e-17
+values for 267 are : 
+beta : 4.06377e-24
+gamma : 2.19642e+11
+alpha : 8.92571e-13
+values for 268 are : 
+beta : 9.27212e-24
+gamma : 7.31428e+19
+alpha : 0.000678189
+values for 269 are : 
+beta : 1.12383e-24
+gamma : 5.52473e+08
+alpha : 6.20883e-16
+values for 270 are : 
+beta : 1.28171e-25
+gamma : 2.41028e+16
+alpha : 3.08928e-09
+values for 271 are : 
+beta : 2.72518e-29
+gamma : 7.4209e+12
+alpha : 2.02233e-16
+values for 272 are : 
+beta : 2.5217e-24
+gamma : 2.58504e+13
+alpha : 6.51867e-11
+values for 273 are : 
+beta : 9.67686e-22
+gamma : 1.7208e+10
+alpha : 1.66519e-11
+values for 274 are : 
+beta : 1.35054e-27
+gamma : 8.47564e+08
+alpha : 1.14467e-18
+values for 275 are : 
+beta : 2.13959e-26
+gamma : 1.21187e+11
+alpha : 2.59289e-15
+values for 276 are : 
+beta : 4.02544e-27
+gamma : 3.66787e+11
+alpha : 1.47648e-15
+values for 277 are : 
+beta : 6.60563e-27
+gamma : 4.02992e+11
+alpha : 2.66201e-15
+values for 278 are : 
+beta : 1.67192e-22
+gamma : 1.6065e+09
+alpha : 2.68593e-13
+values for 279 are : 
+beta : 3.37755e-28
+gamma : 1.68784e+09
+alpha : 5.70076e-19
+values for 280 are : 
+beta : 3.09226e-21
+gamma : 5.27036e+13
+alpha : 1.62973e-07
+values for 281 are : 
+beta : 1.19088e-23
+gamma : 7.39454e+09
+alpha : 8.806e-14
+values for 282 are : 
+beta : 1.24662e-26
+gamma : 1.10314e+10
+alpha : 1.37519e-16
+values for 283 are : 
+beta : 6.31361e-29
+gamma : 2.32311e+09
+alpha : 1.46672e-19
+values for 284 are : 
+beta : 1.84239e-28
+gamma : 4.56268e+15
+alpha : 8.40622e-13
+values for 285 are : 
+beta : 2.66797e-28
+gamma : 2.69749e+08
+alpha : 7.1968e-20
+values for 286 are : 
+beta : 3.07071e-28
+gamma : 6.42933e+09
+alpha : 1.97426e-18
+values for 287 are : 
+beta : 7.3532e-28
+gamma : 1.9121e+13
+alpha : 1.40601e-14
+values for 288 are : 
+beta : 1.65077e-23
+gamma : 4.90282e+12
+alpha : 8.09338e-11
+values for 289 are : 
+beta : 2.47757e-27
+gamma : 2.30385e+13
+alpha : 5.70793e-14
+values for 290 are : 
+beta : 1.27817e-28
+gamma : 1.34398e+10
+alpha : 1.71783e-18
+values for 291 are : 
+beta : 2.35796e-26
+gamma : 7.36631e+13
+alpha : 1.73695e-12
+values for 292 are : 
+beta : 1.04623e-21
+gamma : 4.20415e+13
+alpha : 4.3985e-08
+values for 293 are : 
+beta : 1.28229e-26
+gamma : 4.16416e+14
+alpha : 5.33964e-12
+values for 294 are : 
+beta : 1.04483e-24
+gamma : 4.74953e+11
+alpha : 4.96243e-13
+values for 295 are : 
+beta : 1.47113e-19
+gamma : 3.08836e+16
+alpha : 0.00454336
+values for 296 are : 
+beta : 1.00773e-26
+gamma : 4.25604e+10
+alpha : 4.28892e-16
+values for 297 are : 
+beta : 3.65064e-25
+gamma : 2.30194e+08
+alpha : 8.40352e-17
+values for 298 are : 
+beta : 1.97702e-22
+gamma : 9.51106e+13
+alpha : 1.88035e-08
+values for 299 are : 
+beta : 5.73396e-29
+gamma : 7.09215e+08
+alpha : 4.06661e-20
+values for 300 are : 
+beta : 1.08935e-21
+gamma : 2.999e+18
+alpha : 0.00326695
+values for 301 are : 
+beta : 4.91888e-23
+gamma : 2.14149e+09
+alpha : 1.05337e-13
+values for 302 are : 
+beta : 6.46694e-27
+gamma : 2.82108e+12
+alpha : 1.82438e-14
+values for 303 are : 
+beta : 3.04461e-19
+gamma : 6.712e+16
+alpha : 0.0204354
+values for 304 are : 
+beta : 2.66727e-24
+gamma : 1.5665e+18
+alpha : 4.17826e-06
+values for 305 are : 
+beta : 8.25373e-24
+gamma : 9.31833e+14
+alpha : 7.6911e-09
+values for 306 are : 
+beta : 1.8368e-28
+gamma : 1.92582e+10
+alpha : 3.53733e-18
+values for 307 are : 
+beta : 1.13931e-21
+gamma : 6.63049e+12
+alpha : 7.55412e-09
+values for 308 are : 
+beta : 2.6786e-28
+gamma : 5.28991e+08
+alpha : 1.41696e-19
+values for 309 are : 
+beta : 1.64243e-23
+gamma : 2.60428e+08
+alpha : 4.27732e-15
+values for 310 are : 
+beta : 5.06449e-23
+gamma : 7.32032e+11
+alpha : 3.70737e-11
+values for 311 are : 
+beta : 5.00355e-27
+gamma : 2.18494e+14
+alpha : 1.09325e-12
+values for 312 are : 
+beta : 1.96056e-24
+gamma : 3.46119e+09
+alpha : 6.78587e-15
+values for 313 are : 
+beta : 1.43671e-27
+gamma : 1.49077e+09
+alpha : 2.1418e-18
+values for 314 are : 
+beta : 2.10238e-26
+gamma : 6.35268e+13
+alpha : 1.33558e-12
+values for 315 are : 
+beta : 3.59465e-27
+gamma : 4.87439e+18
+alpha : 1.75217e-08
+values for 316 are : 
+beta : 9.46591e-21
+gamma : 6.43111e+13
+alpha : 6.08762e-07
+values for 317 are : 
+beta : 6.16135e-29
+gamma : 4.9818e+08
+alpha : 3.06946e-20
+values for 318 are : 
+beta : 4.87588e-24
+gamma : 8.81705e+17
+alpha : 4.29908e-06
+values for 319 are : 
+beta : 1.41119e-28
+gamma : 3.50237e+09
+alpha : 4.94247e-19
+values for 320 are : 
+beta : 1.83672e-27
+gamma : 1.96019e+13
+alpha : 3.6003e-14
+values for 321 are : 
+beta : 1.84926e-20
+gamma : 2.74779e+17
+alpha : 0.00508135
+values for 322 are : 
+beta : 2.25378e-27
+gamma : 4.0132e+13
+alpha : 9.04484e-14
+values for 323 are : 
+beta : 9.70689e-23
+gamma : 1.60094e+12
+alpha : 1.55401e-10
+values for 324 are : 
+beta : 1.10887e-25
+gamma : 1.71128e+11
+alpha : 1.89758e-14
+values for 325 are : 
+beta : 3.28472e-23
+gamma : 4.61298e+15
+alpha : 1.51524e-07
+values for 326 are : 
+beta : 1.11995e-28
+gamma : 1.02061e+09
+alpha : 1.14303e-19
+values for 327 are : 
+beta : 2.82424e-21
+gamma : 1.12885e+15
+alpha : 3.18814e-06
+values for 328 are : 
+beta : 6.42431e-27
+gamma : 1.19347e+09
+alpha : 7.66721e-18
+values for 329 are : 
+beta : 1.42267e-23
+gamma : 1.43549e+12
+alpha : 2.04222e-11
+values for 330 are : 
+beta : 1.1667e-24
+gamma : 3.27793e+19
+alpha : 3.82435e-05
+values for 331 are : 
+beta : 2.09476e-25
+gamma : 1.68601e+12
+alpha : 3.53178e-13
+values for 332 are : 
+beta : 2.65108e-29
+gamma : 5.42278e+08
+alpha : 1.43762e-20
+values for 333 are : 
+beta : 2.56166e-29
+gamma : 2.1249e+09
+alpha : 5.44325e-20
+values for 334 are : 
+beta : 1.56639e-27
+gamma : 6.87084e+09
+alpha : 1.07624e-17
+values for 335 are : 
+beta : 2.51649e-29
+gamma : 2.4579e+09
+alpha : 6.18526e-20
+values for 336 are : 
+beta : 1.46405e-23
+gamma : 3.22967e+16
+alpha : 4.72839e-07
+values for 337 are : 
+beta : 1.67364e-25
+gamma : 1.51507e+18
+alpha : 2.53567e-07
+values for 338 are : 
+beta : 4.87432e-23
+gamma : 2.29879e+11
+alpha : 1.12051e-11
+values for 339 are : 
+beta : 2.0586e-29
+gamma : 6.22249e+08
+alpha : 1.28096e-20
+values for 340 are : 
+beta : 1.11828e-22
+gamma : 6.7837e+13
+alpha : 7.58605e-09
+values for 341 are : 
+beta : 2.24223e-27
+gamma : 1.10443e+11
+alpha : 2.47637e-16
+values for 342 are : 
+beta : 1.0496e-29
+gamma : 1.38505e+08
+alpha : 1.45374e-21
+values for 343 are : 
+beta : 1.81738e-25
+gamma : 1.04348e+14
+alpha : 1.89638e-11
+values for 344 are : 
+beta : 6.585e-28
+gamma : 1.35853e+10
+alpha : 8.94586e-18
+values for 345 are : 
+beta : 1.26378e-27
+gamma : 1.78479e+15
+alpha : 2.25558e-12
+values for 346 are : 
+beta : 1.15493e-26
+gamma : 4.46198e+10
+alpha : 5.15325e-16
+values for 347 are : 
+beta : 5.68838e-27
+gamma : 6.5779e+10
+alpha : 3.74176e-16
+values for 348 are : 
+beta : 2.0542e-24
+gamma : 2.77571e+17
+alpha : 5.70185e-07
+values for 349 are : 
+beta : 9.54401e-24
+gamma : 1.38079e+13
+alpha : 1.31783e-10
+values for 350 are : 
+beta : 1.05401e-26
+gamma : 8.12721e+15
+alpha : 8.56609e-11
+values for 351 are : 
+beta : 1.28798e-26
+gamma : 9.31887e+15
+alpha : 1.20025e-10
+values for 352 are : 
+beta : 2.60362e-25
+gamma : 2.0082e+09
+alpha : 5.22856e-16
+failcount is 16
+values for 353 are : 
+beta : 1.73228e-06
+gamma : 4.67951e+34
+alpha : 8.10621e+28
+values for 354 are : 
+beta : 2.32025e-24
+gamma : 9.81666e+16
+alpha : 2.27771e-07
+failcount is 17
+values for 355 are : 
+beta : 1.75463e-15
+gamma : 6.24654e+22
+alpha : 1.09604e+08
+values for 356 are : 
+beta : 1.50378e-27
+gamma : 5.07948e+09
+alpha : 7.63839e-18
+failcount is 18
+values for 357 are : 
+beta : 5.78397e-22
+gamma : 1.16429e+21
+alpha : 0.673419
+values for 358 are : 
+beta : 6.70495e-25
+gamma : 8.03523e+19
+alpha : 5.38758e-05
+values for 359 are : 
+beta : 5.36327e-28
+gamma : 2.28752e+10
+alpha : 1.22686e-17
+values for 360 are : 
+beta : 1.55236e-22
+gamma : 3.99435e+13
+alpha : 6.20065e-09
+values for 361 are : 
+beta : 4.47065e-30
+gamma : 3.30654e+08
+alpha : 1.47824e-21
+values for 362 are : 
+beta : 1.68775e-29
+gamma : 1.1908e+09
+alpha : 2.00976e-20
+values for 363 are : 
+beta : 3.05373e-27
+gamma : 1.48463e+16
+alpha : 4.53363e-11
+values for 364 are : 
+beta : 5.30353e-27
+gamma : 1.57769e+11
+alpha : 8.36728e-16
+values for 365 are : 
+beta : 3.34843e-23
+gamma : 1.93901e+15
+alpha : 6.49264e-08
+values for 366 are : 
+beta : 4.45106e-29
+gamma : 2.56825e+09
+alpha : 1.14315e-19
+values for 367 are : 
+beta : 4.8148e-27
+gamma : 1.24799e+15
+alpha : 6.00877e-12
+values for 368 are : 
+beta : 5.24394e-25
+gamma : 1.03384e+17
+alpha : 5.42139e-08
+values for 369 are : 
+beta : 1.37422e-28
+gamma : 1.13259e+12
+alpha : 1.55642e-16
+values for 370 are : 
+beta : 1.44189e-21
+gamma : 1.47827e+11
+alpha : 2.1315e-10
+values for 371 are : 
+beta : 7.22112e-30
+gamma : 7.0199e+08
+alpha : 5.06915e-21
+values for 372 are : 
+beta : 9.50496e-27
+gamma : 3.68721e+13
+alpha : 3.50468e-13
+values for 373 are : 
+beta : 4.13792e-24
+gamma : 3.45889e+11
+alpha : 1.43126e-12
+values for 374 are : 
+beta : 4.08549e-28
+gamma : 5.33121e+13
+alpha : 2.17806e-14
+values for 375 are : 
+beta : 5.55923e-27
+gamma : 5.51991e+16
+alpha : 3.06864e-10
+values for 376 are : 
+beta : 4.32062e-28
+gamma : 1.22462e+14
+alpha : 5.29108e-14
+values for 377 are : 
+beta : 2.98154e-26
+gamma : 4.97182e+11
+alpha : 1.48237e-14
+values for 378 are : 
+beta : 8.02653e-22
+gamma : 2.04006e+12
+alpha : 1.63746e-09
+values for 379 are : 
+beta : 1.54715e-26
+gamma : 1.60419e+10
+alpha : 2.48191e-16
+values for 380 are : 
+beta : 4.6109e-27
+gamma : 1.70435e+16
+alpha : 7.85858e-11
+values for 381 are : 
+beta : 4.60525e-25
+gamma : 1.76664e+16
+alpha : 8.1358e-09
+values for 382 are : 
+beta : 8.18631e-29
+gamma : 5.25636e+08
+alpha : 4.30301e-20
+values for 383 are : 
+beta : 8.96631e-30
+gamma : 3.3101e+08
+alpha : 2.96794e-21
+values for 384 are : 
+beta : 3.99282e-22
+gamma : 7.42183e+08
+alpha : 2.9634e-13
+values for 385 are : 
+beta : 4.91745e-28
+gamma : 2.67591e+15
+alpha : 1.31587e-12
+values for 386 are : 
+beta : 6.84647e-28
+gamma : 1.00331e+15
+alpha : 6.8691e-13
+values for 387 are : 
+beta : 7.86371e-22
+gamma : 4.12538e+10
+alpha : 3.24408e-11
+values for 388 are : 
+beta : 7.03863e-25
+gamma : 2.61084e+17
+alpha : 1.83767e-07
+values for 389 are : 
+beta : 1.06923e-27
+gamma : 1.61062e+13
+alpha : 1.72212e-14
+values for 390 are : 
+beta : 7.57618e-24
+gamma : 1.11412e+17
+alpha : 8.44074e-07
+values for 391 are : 
+beta : 2.08783e-20
+gamma : 8.80812e+16
+alpha : 0.00183898
+values for 392 are : 
+beta : 4.48566e-27
+gamma : 4.88454e+11
+alpha : 2.19104e-15
+values for 393 are : 
+beta : 1.98911e-22
+gamma : 9.3734e+09
+alpha : 1.86448e-12
+values for 394 are : 
+beta : 4.66101e-26
+gamma : 6.22735e+16
+alpha : 2.90257e-09
+values for 395 are : 
+beta : 8.22813e-22
+gamma : 2.52235e+19
+alpha : 0.0207542
+failcount is 19
+values for 396 are : 
+beta : 1.37429e-22
+gamma : 1.89741e+20
+alpha : 0.0260758
+values for 397 are : 
+beta : 2.38491e-24
+gamma : 2.26029e+09
+alpha : 5.39059e-15
+values for 398 are : 
+beta : 3.66247e-27
+gamma : 3.57954e+10
+alpha : 1.311e-16
+values for 399 are : 
+beta : 5.72447e-24
+gamma : 4.87711e+16
+alpha : 2.79189e-07
+values for 400 are : 
+beta : 3.05308e-28
+gamma : 5.4257e+10
+alpha : 1.65651e-17
+values for 401 are : 
+beta : 4.15541e-21
+gamma : 1.03088e+17
+alpha : 0.000428369
+values for 402 are : 
+beta : 2.68711e-27
+gamma : 2.22933e+10
+alpha : 5.99045e-17
+values for 403 are : 
+beta : 3.57844e-27
+gamma : 1.89647e+11
+alpha : 6.78639e-16
+values for 404 are : 
+beta : 2.56133e-24
+gamma : 4.50686e+12
+alpha : 1.15436e-11
+values for 405 are : 
+beta : 7.03428e-25
+gamma : 4.71784e+08
+alpha : 3.31866e-16
+values for 406 are : 
+beta : 5.28241e-25
+gamma : 2.24201e+12
+alpha : 1.18432e-12
+values for 407 are : 
+beta : 1.03958e-22
+gamma : 5.86656e+12
+alpha : 6.09875e-10
+values for 408 are : 
+beta : 2.67959e-26
+gamma : 1.06518e+16
+alpha : 2.85423e-10
+values for 409 are : 
+beta : 6.67872e-23
+gamma : 1.74304e+10
+alpha : 1.16413e-12
+values for 410 are : 
+beta : 2.00657e-24
+gamma : 2.43639e+11
+alpha : 4.88879e-13
+values for 411 are : 
+beta : 1.84224e-23
+gamma : 5.21101e+19
+alpha : 0.000959988
+values for 412 are : 
+beta : 1.71307e-25
+gamma : 7.76958e+10
+alpha : 1.33099e-14
+values for 413 are : 
+beta : 1.81344e-26
+gamma : 9.17426e+13
+alpha : 1.66369e-12
+values for 414 are : 
+beta : 6.83122e-28
+gamma : 3.40982e+13
+alpha : 2.32932e-14
+values for 415 are : 
+beta : 7.30527e-25
+gamma : 3.05669e+08
+alpha : 2.233e-16
+values for 416 are : 
+beta : 3.84122e-22
+gamma : 9.69293e+13
+alpha : 3.72327e-08
+values for 417 are : 
+beta : 1.98767e-24
+gamma : 1.26073e+15
+alpha : 2.5059e-09
+values for 418 are : 
+beta : 5.12965e-27
+gamma : 4.68638e+12
+alpha : 2.40395e-14
+values for 419 are : 
+beta : 2.50318e-24
+gamma : 1.8942e+13
+alpha : 4.74151e-11
+values for 420 are : 
+beta : 2.0842e-29
+gamma : 2.14029e+08
+alpha : 4.46079e-21
+values for 421 are : 
+beta : 2.04606e-25
+gamma : 3.24738e+09
+alpha : 6.64429e-16
+values for 422 are : 
+beta : 4.11331e-29
+gamma : 1.82307e+09
+alpha : 7.49883e-20
+values for 423 are : 
+beta : 4.46688e-25
+gamma : 6.61664e+09
+alpha : 2.95557e-15
+values for 424 are : 
+beta : 5.5902e-29
+gamma : 2.4051e+13
+alpha : 1.3445e-15
+values for 425 are : 
+beta : 4.03297e-24
+gamma : 3.78086e+18
+alpha : 1.52481e-05
+values for 426 are : 
+beta : 5.04511e-23
+gamma : 2.83657e+19
+alpha : 0.00143108
+values for 427 are : 
+beta : 5.77503e-28
+gamma : 8.73827e+07
+alpha : 5.04637e-20
+values for 428 are : 
+beta : 4.24889e-29
+gamma : 3.05388e+08
+alpha : 1.29756e-20
+values for 429 are : 
+beta : 7.03239e-26
+gamma : 2.8414e+18
+alpha : 1.99819e-07
+values for 430 are : 
+beta : 7.30918e-30
+gamma : 8.90859e+08
+alpha : 6.51145e-21
+values for 431 are : 
+beta : 7.45878e-24
+gamma : 2.7922e+17
+alpha : 2.08264e-06
+values for 432 are : 
+beta : 8.10313e-25
+gamma : 2.36332e+14
+alpha : 1.91503e-10
+failcount is 20
+values for 433 are : 
+beta : 2.22924e-20
+gamma : 6.99653e+19
+alpha : 1.5597
+values for 434 are : 
+beta : 4.449e-25
+gamma : 9.19673e+18
+alpha : 4.09162e-06
+values for 435 are : 
+beta : 1.12985e-24
+gamma : 1.14556e+11
+alpha : 1.29431e-13
+values for 436 are : 
+beta : 3.04205e-28
+gamma : 1.02881e+09
+alpha : 3.12968e-19
+values for 437 are : 
+beta : 8.33866e-28
+gamma : 2.04488e+09
+alpha : 1.70515e-18
+values for 438 are : 
+beta : 2.23409e-22
+gamma : 7.01573e+13
+alpha : 1.56738e-08
+values for 439 are : 
+beta : 4.81754e-26
+gamma : 1.39839e+15
+alpha : 6.73678e-11
+values for 440 are : 
+beta : 1.34132e-22
+gamma : 5.94615e+15
+alpha : 7.97568e-07
+values for 441 are : 
+beta : 6.43656e-28
+gamma : 1.40615e+11
+alpha : 9.05077e-17
+values for 442 are : 
+beta : 5.6918e-26
+gamma : 2.79757e+17
+alpha : 1.59232e-08
+values for 443 are : 
+beta : 1.70727e-24
+gamma : 2.20068e+17
+alpha : 3.75714e-07
+values for 444 are : 
+beta : 5.35408e-26
+gamma : 2.79667e+11
+alpha : 1.49736e-14
+values for 445 are : 
+beta : 1.29599e-28
+gamma : 1.71865e+09
+alpha : 2.22734e-19
+values for 446 are : 
+beta : 3.26113e-27
+gamma : 4.53922e+15
+alpha : 1.4803e-11
+values for 447 are : 
+beta : 1.65211e-26
+gamma : 1.42516e+10
+alpha : 2.3545e-16
+values for 448 are : 
+beta : 1.52273e-24
+gamma : 2.10492e+12
+alpha : 3.20521e-12
+values for 449 are : 
+beta : 7.44565e-29
+gamma : 7.87438e+09
+alpha : 5.86299e-19
+failcount is 21
+values for 450 are : 
+beta : 2.23529e-18
+gamma : 1.31668e+18
+alpha : 2.94315
+failcount is 22
+values for 451 are : 
+beta : 6.39599e-22
+gamma : 2.37493e+21
+alpha : 1.51901
+values for 452 are : 
+beta : 2.19435e-22
+gamma : 4.62991e+13
+alpha : 1.01596e-08
+failcount is 23
+values for 453 are : 
+beta : 9.7526e-20
+gamma : 1.64126e+21
+alpha : 160.066
+values for 454 are : 
+beta : 1.0165e-25
+gamma : 6.11147e+12
+alpha : 6.21227e-13
+values for 455 are : 
+beta : 1.25257e-24
+gamma : 2.34462e+20
+alpha : 0.000293678
+values for 456 are : 
+beta : 3.70453e-24
+gamma : 1.40138e+09
+alpha : 5.19144e-15
+failcount is 24
+values for 457 are : 
+beta : 8.18508e-21
+gamma : 6.67621e+22
+alpha : 546.452
+values for 458 are : 
+beta : 2.11124e-27
+gamma : 1.96659e+11
+alpha : 4.15192e-16
+values for 459 are : 
+beta : 1.13543e-25
+gamma : 1.5858e+12
+alpha : 1.80055e-13
+values for 460 are : 
+beta : 1.04565e-22
+gamma : 1.30442e+11
+alpha : 1.36396e-11
+values for 461 are : 
+beta : 5.34188e-29
+gamma : 3.26177e+08
+alpha : 1.7424e-20
+values for 462 are : 
+beta : 1.66692e-24
+gamma : 3.66941e+08
+alpha : 6.1166e-16
+values for 463 are : 
+beta : 6.13012e-25
+gamma : 7.07535e+19
+alpha : 4.33727e-05
+values for 464 are : 
+beta : 6.63659e-24
+gamma : 1.51543e+12
+alpha : 1.00573e-11
+values for 465 are : 
+beta : 1.1741e-28
+gamma : 5.42944e+09
+alpha : 6.37469e-19
+values for 466 are : 
+beta : 1.12393e-25
+gamma : 4.38509e+13
+alpha : 4.92853e-12
+values for 467 are : 
+beta : 4.47803e-24
+gamma : 3.07127e+19
+alpha : 0.000137533
+values for 468 are : 
+beta : 1.29883e-21
+gamma : 5.05285e+13
+alpha : 6.56275e-08
+values for 469 are : 
+beta : 4.2069e-21
+gamma : 1.50626e+18
+alpha : 0.00633665
+values for 470 are : 
+beta : 7.33708e-26
+gamma : 4.30716e+15
+alpha : 3.1602e-10
+values for 471 are : 
+beta : 3.084e-26
+gamma : 5.28235e+18
+alpha : 1.62908e-07
+values for 472 are : 
+beta : 6.7248e-29
+gamma : 4.01188e+10
+alpha : 2.69791e-18
+values for 473 are : 
+beta : 2.6216e-27
+gamma : 3.89564e+10
+alpha : 1.02128e-16
+values for 474 are : 
+beta : 6.87309e-29
+gamma : 7.52076e+10
+alpha : 5.16908e-18
+values for 475 are : 
+beta : 2.56747e-27
+gamma : 1.84494e+11
+alpha : 4.73682e-16
+values for 476 are : 
+beta : 5.52009e-25
+gamma : 2.08451e+13
+alpha : 1.15067e-11
+values for 477 are : 
+beta : 6.43248e-24
+gamma : 4.42358e+10
+alpha : 2.84546e-13
+values for 478 are : 
+beta : 6.18032e-24
+gamma : 1.82832e+15
+alpha : 1.12996e-08
+failcount is 25
+values for 479 are : 
+beta : 2.47842e-17
+gamma : 2.80615e+18
+alpha : 69.548
+failcount is 26
+values for 480 are : 
+beta : 1.37389e-17
+gamma : 4.97914e+20
+alpha : 6840.77
+values for 481 are : 
+beta : 3.91915e-24
+gamma : 2.76989e+12
+alpha : 1.08556e-11
+values for 482 are : 
+beta : 4.25778e-26
+gamma : 1.64142e+14
+alpha : 6.98878e-12
+values for 483 are : 
+beta : 6.2466e-28
+gamma : 2.55815e+10
+alpha : 1.59798e-17
+values for 484 are : 
+beta : 3.34846e-25
+gamma : 4.87534e+13
+alpha : 1.63249e-11
+values for 485 are : 
+beta : 2.40299e-29
+gamma : 4.37191e+09
+alpha : 1.05057e-19
+values for 486 are : 
+beta : 4.05037e-22
+gamma : 5.4595e+13
+alpha : 2.2113e-08
+values for 487 are : 
+beta : 3.1145e-27
+gamma : 6.18899e+10
+alpha : 1.92756e-16
+values for 488 are : 
+beta : 2.34337e-27
+gamma : 2.07595e+09
+alpha : 4.86471e-18
+values for 489 are : 
+beta : 1.84984e-24
+gamma : 1.59772e+12
+alpha : 2.9555e-12
+values for 490 are : 
+beta : 1.46742e-23
+gamma : 3.33657e+13
+alpha : 4.89612e-10
+values for 491 are : 
+beta : 1.51729e-28
+gamma : 2.14337e+12
+alpha : 3.2521e-16
+values for 492 are : 
+beta : 2.04095e-25
+gamma : 4.34279e+08
+alpha : 8.8634e-17
+values for 493 are : 
+beta : 9.03127e-23
+gamma : 1.32116e+10
+alpha : 1.19317e-12
+values for 494 are : 
+beta : 1.12679e-24
+gamma : 3.32013e+17
+alpha : 3.74107e-07
+values for 495 are : 
+beta : 6.42238e-24
+gamma : 8.50228e+09
+alpha : 5.46048e-14
+values for 496 are : 
+beta : 3.55266e-27
+gamma : 4.02344e+08
+alpha : 1.42939e-18
+values for 497 are : 
+beta : 1.09693e-28
+gamma : 9.58657e+09
+alpha : 1.05158e-18
+values for 498 are : 
+beta : 2.38507e-23
+gamma : 5.5622e+15
+alpha : 1.32663e-07
+values for 499 are : 
+beta : 2.18047e-25
+gamma : 6.60163e+13
+alpha : 1.43947e-11
+values for 500 are : 
+beta : 1.68674e-23
+gamma : 1.96183e+11
+alpha : 3.30908e-12
+values for 501 are : 
+beta : 4.1096e-25
+gamma : 1.18835e+11
+alpha : 4.88362e-14
+values for 502 are : 
+beta : 1.31544e-27
+gamma : 2.10487e+10
+alpha : 2.76883e-17
+values for 503 are : 
+beta : 4.2577e-23
+gamma : 2.43158e+15
+alpha : 1.03529e-07
+values for 504 are : 
+beta : 1.29957e-21
+gamma : 2.13314e+14
+alpha : 2.77215e-07
+values for 505 are : 
+beta : 1.43929e-25
+gamma : 7.19642e+12
+alpha : 1.03577e-12
+values for 506 are : 
+beta : 2.25262e-27
+gamma : 8.47622e+08
+alpha : 1.90937e-18
+values for 507 are : 
+beta : 4.07821e-25
+gamma : 5.7828e+09
+alpha : 2.35835e-15
+values for 508 are : 
+beta : 3.67658e-25
+gamma : 1.3272e+15
+alpha : 4.87953e-10
+values for 509 are : 
+beta : 1.7235e-29
+gamma : 3.15203e+10
+alpha : 5.43249e-19
+values for 510 are : 
+beta : 9.47319e-28
+gamma : 3.36556e+09
+alpha : 3.18825e-18
+values for 511 are : 
+beta : 7.2974e-23
+gamma : 9.64554e+16
+alpha : 7.03873e-06
+values for 512 are : 
+beta : 5.18749e-27
+gamma : 9.8662e+15
+alpha : 5.11808e-11
+values for 513 are : 
+beta : 9.21489e-26
+gamma : 2.5273e+17
+alpha : 2.32888e-08
+values for 514 are : 
+beta : 5.37576e-27
+gamma : 5.70569e+09
+alpha : 3.06724e-17
+values for 515 are : 
+beta : 6.53582e-23
+gamma : 2.83048e+17
+alpha : 1.84995e-05
+values for 516 are : 
+beta : 3.72269e-28
+gamma : 5.52444e+12
+alpha : 2.05657e-15
+values for 517 are : 
+beta : 7.6286e-28
+gamma : 5.0496e+13
+alpha : 3.85213e-14
+values for 518 are : 
+beta : 5.02631e-25
+gamma : 5.02821e+11
+alpha : 2.52733e-13
+values for 519 are : 
+beta : 4.13009e-24
+gamma : 2.42282e+20
+alpha : 0.00100065
+values for 520 are : 
+beta : 4.00341e-24
+gamma : 9.749e+18
+alpha : 3.90292e-05
+values for 521 are : 
+beta : 1.47324e-28
+gamma : 5.26481e+09
+alpha : 7.75631e-19
+values for 522 are : 
+beta : 7.04088e-27
+gamma : 2.16501e+11
+alpha : 1.52436e-15
+values for 523 are : 
+beta : 7.50892e-22
+gamma : 5.00197e+13
+alpha : 3.75594e-08
+values for 524 are : 
+beta : 1.82439e-25
+gamma : 9.9102e+12
+alpha : 1.808e-12
+values for 525 are : 
+beta : 6.32807e-27
+gamma : 2.42568e+10
+alpha : 1.53499e-16
+values for 526 are : 
+beta : 1.0857e-27
+gamma : 6.29366e+08
+alpha : 6.83301e-19
+values for 527 are : 
+beta : 1.01772e-25
+gamma : 6.12286e+16
+alpha : 6.23135e-09
+values for 528 are : 
+beta : 1.2351e-27
+gamma : 1.54354e+13
+alpha : 1.90642e-14
+values for 529 are : 
+beta : 7.26553e-27
+gamma : 2.37866e+10
+alpha : 1.72823e-16
+values for 530 are : 
+beta : 2.63302e-28
+gamma : 3.42227e+09
+alpha : 9.01087e-19
+values for 531 are : 
+beta : 3.44157e-30
+gamma : 1.07784e+09
+alpha : 3.70945e-21
+values for 532 are : 
+beta : 9.56364e-30
+gamma : 2.20639e+09
+alpha : 2.11011e-20
+values for 533 are : 
+beta : 2.0082e-29
+gamma : 1.2709e+09
+alpha : 2.55222e-20
+values for 534 are : 
+beta : 1.37149e-28
+gamma : 1.02834e+09
+alpha : 1.41035e-19
+values for 535 are : 
+beta : 1.1494e-23
+gamma : 6.29604e+12
+alpha : 7.23664e-11
+values for 536 are : 
+beta : 9.61257e-24
+gamma : 4.08276e+16
+alpha : 3.92458e-07
+values for 537 are : 
+beta : 1.86274e-28
+gamma : 1.47653e+10
+alpha : 2.75038e-18
+values for 538 are : 
+beta : 3.40556e-28
+gamma : 4.87522e+09
+alpha : 1.66029e-18
+values for 539 are : 
+beta : 4.20371e-21
+gamma : 2.65653e+17
+alpha : 0.00111673
+values for 540 are : 
+beta : 1.37253e-26
+gamma : 7.1021e+16
+alpha : 9.74784e-10
+values for 541 are : 
+beta : 1.18666e-26
+gamma : 2.32242e+10
+alpha : 2.7559e-16
+values for 542 are : 
+beta : 5.61222e-23
+gamma : 6.47262e+15
+alpha : 3.63258e-07
+failcount is 27
+values for 543 are : 
+beta : 8.37713e-19
+gamma : 2.13521e+17
+alpha : 0.178869
+values for 544 are : 
+beta : 2.43973e-28
+gamma : 6.92765e+11
+alpha : 1.69016e-16
+values for 545 are : 
+beta : 2.21312e-22
+gamma : 4.01948e+19
+alpha : 0.00889557
+values for 546 are : 
+beta : 9.67133e-23
+gamma : 3.01883e+11
+alpha : 2.91961e-11
+values for 547 are : 
+beta : 1.16874e-27
+gamma : 1.80989e+14
+alpha : 2.11527e-13
+values for 548 are : 
+beta : 1.68669e-21
+gamma : 1.2217e+13
+alpha : 2.06061e-08
+values for 549 are : 
+beta : 1.64153e-25
+gamma : 8.20256e+16
+alpha : 1.34648e-08
+values for 550 are : 
+beta : 6.98764e-29
+gamma : 2.57438e+08
+alpha : 1.79888e-20
+values for 551 are : 
+beta : 6.17389e-27
+gamma : 2.33995e+11
+alpha : 1.44466e-15
+values for 552 are : 
+beta : 1.13467e-25
+gamma : 2.62491e+16
+alpha : 2.97841e-09
+values for 553 are : 
+beta : 2.2947e-26
+gamma : 6.00487e+10
+alpha : 1.37794e-15
+values for 554 are : 
+beta : 2.86632e-23
+gamma : 1.84919e+13
+alpha : 5.30035e-10
+values for 555 are : 
+beta : 6.25069e-29
+gamma : 1.73953e+09
+alpha : 1.08732e-19
+values for 556 are : 
+beta : 1.32986e-28
+gamma : 6.97002e+09
+alpha : 9.26913e-19
+values for 557 are : 
+beta : 4.53768e-29
+gamma : 2.66208e+09
+alpha : 1.20797e-19
+values for 558 are : 
+beta : 7.38348e-23
+gamma : 2.76905e+15
+alpha : 2.04452e-07
+values for 559 are : 
+beta : 4.80897e-26
+gamma : 1.08491e+11
+alpha : 5.21726e-15
+values for 560 are : 
+beta : 1.2512e-25
+gamma : 2.63886e+11
+alpha : 3.30172e-14
+values for 561 are : 
+beta : 3.5631e-24
+gamma : 6.21402e+09
+alpha : 2.21411e-14
+values for 562 are : 
+beta : 7.0356e-28
+gamma : 2.4677e+14
+alpha : 1.73618e-13
+failcount is 28
+values for 563 are : 
+beta : 2.96129e-23
+gamma : 8.63811e+20
+alpha : 0.02558
+values for 564 are : 
+beta : 2.70793e-28
+gamma : 8.47423e+13
+alpha : 2.29476e-14
+values for 565 are : 
+beta : 2.73117e-27
+gamma : 2.6462e+13
+alpha : 7.2272e-14
+values for 566 are : 
+beta : 1.44821e-28
+gamma : 1.70502e+09
+alpha : 2.46921e-19
+values for 567 are : 
+beta : 6.33743e-27
+gamma : 4.24167e+10
+alpha : 2.68813e-16
+values for 568 are : 
+beta : 6.36977e-26
+gamma : 5.48776e+12
+alpha : 3.49557e-13
+values for 569 are : 
+beta : 1.99951e-20
+gamma : 2.39288e+17
+alpha : 0.00478457
+values for 570 are : 
+beta : 2.83735e-27
+gamma : 3.61234e+10
+alpha : 1.02495e-16
+failcount is 29
+values for 571 are : 
+beta : 3.61625e-19
+gamma : 1.50014e+19
+alpha : 5.42486
+values for 572 are : 
+beta : 3.12385e-21
+gamma : 4.15934e+12
+alpha : 1.29932e-08
+values for 573 are : 
+beta : 3.28796e-29
+gamma : 2.78675e+09
+alpha : 9.1627e-20
+values for 574 are : 
+beta : 3.87654e-24
+gamma : 9.42517e+10
+alpha : 3.6537e-13
+values for 575 are : 
+beta : 2.37916e-24
+gamma : 3.1349e+10
+alpha : 7.45841e-14
+values for 576 are : 
+beta : 1.16522e-27
+gamma : 3.86368e+09
+alpha : 4.50202e-18
+values for 577 are : 
+beta : 5.17837e-29
+gamma : 5.87056e+08
+alpha : 3.03999e-20
+values for 578 are : 
+beta : 1.70594e-24
+gamma : 1.82755e+08
+alpha : 3.11767e-16
+values for 579 are : 
+beta : 2.74594e-25
+gamma : 1.83563e+11
+alpha : 5.0405e-14
+values for 580 are : 
+beta : 2.59829e-23
+gamma : 1.04352e+12
+alpha : 2.71136e-11
+values for 581 are : 
+beta : 6.64936e-27
+gamma : 1.76629e+10
+alpha : 1.17447e-16
+values for 582 are : 
+beta : 1.90265e-28
+gamma : 9.26777e+11
+alpha : 1.76333e-16
+values for 583 are : 
+beta : 1.28989e-23
+gamma : 4.04851e+13
+alpha : 5.2221e-10
+values for 584 are : 
+beta : 1.08501e-23
+gamma : 1.14795e+18
+alpha : 1.24553e-05
+values for 585 are : 
+beta : 3.07288e-29
+gamma : 8.18866e+08
+alpha : 2.51628e-20
+values for 586 are : 
+beta : 1.76787e-21
+gamma : 1.95248e+18
+alpha : 0.00345171
+values for 587 are : 
+beta : 1.67218e-26
+gamma : 4.63246e+14
+alpha : 7.74631e-12
+values for 588 are : 
+beta : 1.94194e-26
+gamma : 4.33146e+11
+alpha : 8.4114e-15
+values for 589 are : 
+beta : 2.83763e-25
+gamma : 2.52594e+11
+alpha : 7.16765e-14
+values for 590 are : 
+beta : 4.11829e-21
+gamma : 1.56413e+15
+alpha : 6.44151e-06
+values for 591 are : 
+beta : 1.49905e-22
+gamma : 6.88809e+17
+alpha : 0.000103256
+values for 592 are : 
+beta : 4.01757e-22
+gamma : 3.15346e+12
+alpha : 1.26693e-09
+values for 593 are : 
+beta : 3.34331e-27
+gamma : 6.5142e+14
+alpha : 2.1779e-12
+values for 594 are : 
+beta : 1.00034e-23
+gamma : 6.87086e+15
+alpha : 6.87316e-08
+values for 595 are : 
+beta : 2.78826e-26
+gamma : 8.37468e+12
+alpha : 2.33508e-13
+values for 596 are : 
+beta : 1.13454e-22
+gamma : 5.01303e+18
+alpha : 0.000568744
+values for 597 are : 
+beta : 9.61354e-28
+gamma : 4.27039e+14
+alpha : 4.10535e-13
+values for 598 are : 
+beta : 5.7336e-27
+gamma : 5.08691e+10
+alpha : 2.91663e-16
+values for 599 are : 
+beta : 8.46702e-27
+gamma : 2.13554e+13
+alpha : 1.80816e-13
+values for 600 are : 
+beta : 1.87644e-28
+gamma : 6.67568e+11
+alpha : 1.25265e-16
+values for 601 are : 
+beta : 3.11817e-28
+gamma : 5.51474e+10
+alpha : 1.71959e-17
+values for 602 are : 
+beta : 1.07746e-25
+gamma : 2.33619e+08
+alpha : 2.51714e-17
+values for 603 are : 
+beta : 1.48341e-24
+gamma : 2.52315e+17
+alpha : 3.74285e-07
+values for 604 are : 
+beta : 2.15236e-27
+gamma : 1.04437e+10
+alpha : 2.24785e-17
+values for 605 are : 
+beta : 5.9868e-28
+gamma : 6.42856e+16
+alpha : 3.84865e-11
+values for 606 are : 
+beta : 8.24397e-24
+gamma : 3.04871e+08
+alpha : 2.51335e-15
+failcount is 30
+values for 607 are : 
+beta : 1.01821e-20
+gamma : 9.63443e+18
+alpha : 0.098098
+values for 608 are : 
+beta : 1.19085e-26
+gamma : 9.54821e+14
+alpha : 1.13705e-11
+values for 609 are : 
+beta : 6.54407e-26
+gamma : 4.92614e+17
+alpha : 3.2237e-08
+values for 610 are : 
+beta : 4.20888e-28
+gamma : 4.29329e+09
+alpha : 1.80699e-18
+values for 611 are : 
+beta : 6.10904e-26
+gamma : 1.25504e+19
+alpha : 7.66704e-07
+values for 612 are : 
+beta : 1.25019e-27
+gamma : 1.4333e+09
+alpha : 1.79188e-18
+failcount is 31
+values for 613 are : 
+beta : 1.7237e-12
+gamma : 4.09244e+21
+alpha : 7.05413e+09
+values for 614 are : 
+beta : 4.48498e-26
+gamma : 7.43964e+10
+alpha : 3.33666e-15
+values for 615 are : 
+beta : 1.75881e-26
+gamma : 1.82856e+14
+alpha : 3.21609e-12
+values for 616 are : 
+beta : 2.9276e-26
+gamma : 1.99709e+16
+alpha : 5.84665e-10
+values for 617 are : 
+beta : 1.65076e-23
+gamma : 1.24064e+13
+alpha : 2.04799e-10
+values for 618 are : 
+beta : 5.12568e-27
+gamma : 3.77284e+12
+alpha : 1.93384e-14
+values for 619 are : 
+beta : 6.31424e-26
+gamma : 3.94511e+16
+alpha : 2.49104e-09
+values for 620 are : 
+beta : 1.21352e-27
+gamma : 3.59486e+12
+alpha : 4.36242e-15
+values for 621 are : 
+beta : 3.28018e-28
+gamma : 8.06242e+08
+alpha : 2.64462e-19
+values for 622 are : 
+beta : 6.04727e-27
+gamma : 4.4379e+08
+alpha : 2.68372e-18
+values for 623 are : 
+beta : 1.05285e-24
+gamma : 1.10824e+12
+alpha : 1.16681e-12
+values for 624 are : 
+beta : 6.16932e-22
+gamma : 2.48762e+11
+alpha : 1.53469e-10
+values for 625 are : 
+beta : 1.61368e-26
+gamma : 6.62281e+14
+alpha : 1.06871e-11
+values for 626 are : 
+beta : 1.48977e-29
+gamma : 1.39021e+10
+alpha : 2.07109e-19
+values for 627 are : 
+beta : 1.07132e-26
+gamma : 1.90668e+16
+alpha : 2.04265e-10
+values for 628 are : 
+beta : 2.50746e-29
+gamma : 2.17603e+09
+alpha : 5.45629e-20
+values for 629 are : 
+beta : 1.7347e-29
+gamma : 1.07667e+11
+alpha : 1.86768e-18
+values for 630 are : 
+beta : 2.20782e-26
+gamma : 9.62926e+13
+alpha : 2.12597e-12
+values for 631 are : 
+beta : 3.54364e-26
+gamma : 5.1446e+12
+alpha : 1.82306e-13
+values for 632 are : 
+beta : 9.13422e-27
+gamma : 2.69922e+10
+alpha : 2.46553e-16
+values for 633 are : 
+beta : 2.0775e-27
+gamma : 2.09769e+11
+alpha : 4.35792e-16
+values for 634 are : 
+beta : 4.14655e-29
+gamma : 6.24802e+10
+alpha : 2.59077e-18
+values for 635 are : 
+beta : 2.02029e-22
+gamma : 4.11107e+10
+alpha : 8.30552e-12
+failcount is 32
+values for 636 are : 
+beta : 9.82215e-22
+gamma : 9.61224e+20
+alpha : 0.944128
+values for 637 are : 
+beta : 2.42529e-28
+gamma : 1.71423e+10
+alpha : 4.15749e-18
+values for 638 are : 
+beta : 6.76775e-29
+gamma : 4.46605e+10
+alpha : 3.02251e-18
+values for 639 are : 
+beta : 1.08303e-20
+gamma : 2.19629e+17
+alpha : 0.00237864
+values for 640 are : 
+beta : 3.3965e-22
+gamma : 2.55905e+11
+alpha : 8.6918e-11
+values for 641 are : 
+beta : 1.39605e-25
+gamma : 5.9671e+19
+alpha : 8.33031e-06
+values for 642 are : 
+beta : 6.95809e-26
+gamma : 1.18935e+11
+alpha : 8.27556e-15
+failcount is 33
+values for 643 are : 
+beta : 7.66857e-22
+gamma : 3.78438e+20
+alpha : 0.290208
+values for 644 are : 
+beta : 2.78397e-28
+gamma : 2.39313e+09
+alpha : 6.66239e-19
+values for 645 are : 
+beta : 2.31323e-25
+gamma : 1.14087e+15
+alpha : 2.63908e-10
+values for 646 are : 
+beta : 4.02282e-23
+gamma : 8.85703e+19
+alpha : 0.00356303
+values for 647 are : 
+beta : 9.004e-28
+gamma : 3.29955e+09
+alpha : 2.97091e-18
+values for 648 are : 
+beta : 2.39448e-28
+gamma : 8.53337e+10
+alpha : 2.04329e-17
+values for 649 are : 
+beta : 9.30389e-27
+gamma : 5.35057e+15
+alpha : 4.97811e-11
+values for 650 are : 
+beta : 1.95141e-26
+gamma : 9.02883e+08
+alpha : 1.76189e-17
+values for 651 are : 
+beta : 8.14914e-27
+gamma : 1.31938e+13
+alpha : 1.07518e-13
+values for 652 are : 
+beta : 2.26643e-28
+gamma : 6.2685e+12
+alpha : 1.42072e-15
+values for 653 are : 
+beta : 4.2542e-28
+gamma : 2.29478e+14
+alpha : 9.76242e-14
+values for 654 are : 
+beta : 1.62076e-27
+gamma : 1.16189e+13
+alpha : 1.88313e-14
+values for 655 are : 
+beta : 1.90272e-28
+gamma : 1.52122e+10
+alpha : 2.89444e-18
+values for 656 are : 
+beta : 9.8633e-28
+gamma : 6.05974e+09
+alpha : 5.9769e-18
+values for 657 are : 
+beta : 1.85733e-22
+gamma : 1.4163e+14
+alpha : 2.63053e-08
+values for 658 are : 
+beta : 1.48043e-23
+gamma : 2.03355e+16
+alpha : 3.01052e-07
+values for 659 are : 
+beta : 1.46667e-28
+gamma : 1.71432e+10
+alpha : 2.51434e-18
+values for 660 are : 
+beta : 2.25745e-23
+gamma : 6.55456e+17
+alpha : 1.47966e-05
+values for 661 are : 
+beta : 1.03664e-24
+gamma : 2.52695e+13
+alpha : 2.61952e-11
+values for 662 are : 
+beta : 3.70233e-28
+gamma : 4.22595e+10
+alpha : 1.56459e-17
+values for 663 are : 
+beta : 1.78533e-26
+gamma : 7.99269e+08
+alpha : 1.42696e-17
+failcount is 34
+values for 664 are : 
+beta : 6.16158e-23
+gamma : 1.10937e+21
+alpha : 0.0683544
+failcount is 35
+values for 665 are : 
+beta : 4.72412e-22
+gamma : 1.05326e+20
+alpha : 0.0497571
+values for 666 are : 
+beta : 2.387e-26
+gamma : 2.8743e+11
+alpha : 6.86094e-15
+values for 667 are : 
+beta : 8.09284e-28
+gamma : 1.10524e+11
+alpha : 8.94451e-17
+values for 668 are : 
+beta : 6.14944e-27
+gamma : 6.21909e+09
+alpha : 3.82439e-17
+values for 669 are : 
+beta : 1.60873e-29
+gamma : 1.58909e+10
+alpha : 2.5564e-19
+values for 670 are : 
+beta : 4.77958e-21
+gamma : 5.92746e+17
+alpha : 0.00283307
+values for 671 are : 
+beta : 1.80166e-24
+gamma : 2.95749e+16
+alpha : 5.32837e-08
+values for 672 are : 
+beta : 2.85891e-23
+gamma : 3.34211e+09
+alpha : 9.55478e-14
+values for 673 are : 
+beta : 1.28174e-21
+gamma : 1.56113e+16
+alpha : 2.00095e-05
+failcount is 36
+values for 674 are : 
+beta : 3.14709e-21
+gamma : 1.72805e+19
+alpha : 0.0543832
+values for 675 are : 
+beta : 2.86156e-27
+gamma : 3.96425e+17
+alpha : 1.1344e-09
+values for 676 are : 
+beta : 1.27785e-23
+gamma : 1.23999e+10
+alpha : 1.58451e-13
+values for 677 are : 
+beta : 5.43318e-25
+gamma : 7.87012e+11
+alpha : 4.27598e-13
+values for 678 are : 
+beta : 4.28217e-25
+gamma : 5.03807e+14
+alpha : 2.15739e-10
+values for 679 are : 
+beta : 5.23145e-21
+gamma : 2.31643e+11
+alpha : 1.21183e-09
+values for 680 are : 
+beta : 3.22144e-20
+gamma : 2.55687e+15
+alpha : 8.23678e-05
+failcount is 37
+values for 681 are : 
+beta : 1.88915e-18
+gamma : 1.92325e+20
+alpha : 363.33
+values for 682 are : 
+beta : 2.90778e-27
+gamma : 1.43931e+10
+alpha : 4.18517e-17
+values for 683 are : 
+beta : 9.61422e-25
+gamma : 1.62743e+19
+alpha : 1.56465e-05
+values for 684 are : 
+beta : 2.76797e-28
+gamma : 1.23234e+10
+alpha : 3.41106e-18
+values for 685 are : 
+beta : 3.96736e-23
+gamma : 5.0416e+20
+alpha : 0.0200018
+values for 686 are : 
+beta : 8.29233e-23
+gamma : 2.90155e+18
+alpha : 0.000240606
+values for 687 are : 
+beta : 1.08486e-27
+gamma : 5.15502e+10
+alpha : 5.59244e-17
+values for 688 are : 
+beta : 1.10597e-25
+gamma : 4.75162e+12
+alpha : 5.25513e-13
+values for 689 are : 
+beta : 2.06898e-24
+gamma : 2.1907e+13
+alpha : 4.5325e-11
+values for 690 are : 
+beta : 2.94323e-29
+gamma : 4.99715e+08
+alpha : 1.47078e-20
+values for 691 are : 
+beta : 5.23362e-28
+gamma : 1.288e+09
+alpha : 6.74086e-19
+values for 692 are : 
+beta : 1.83486e-29
+gamma : 3.80974e+08
+alpha : 6.99032e-21
+values for 693 are : 
+beta : 5.25191e-25
+gamma : 1.70186e+13
+alpha : 8.938e-12
+values for 694 are : 
+beta : 6.6198e-23
+gamma : 1.08163e+20
+alpha : 0.00716015
+values for 695 are : 
+beta : 1.66828e-24
+gamma : 8.41828e+12
+alpha : 1.4044e-11
+values for 696 are : 
+beta : 2.22938e-26
+gamma : 7.85625e+15
+alpha : 1.75146e-10
+values for 697 are : 
+beta : 9.09258e-27
+gamma : 3.84139e+11
+alpha : 3.49281e-15
+values for 698 are : 
+beta : 6.40714e-23
+gamma : 1.95724e+11
+alpha : 1.25403e-11
+values for 699 are : 
+beta : 1.10917e-25
+gamma : 1.81336e+10
+alpha : 2.01132e-15
+values for 700 are : 
+beta : 1.54115e-26
+gamma : 4.25329e+15
+alpha : 6.55492e-11
+values for 701 are : 
+beta : 4.99426e-22
+gamma : 1.86497e+17
+alpha : 9.3141e-05
+values for 702 are : 
+beta : 6.66859e-27
+gamma : 8.27413e+14
+alpha : 5.51768e-12
+failcount is 38
+values for 703 are : 
+beta : 1.4979e-15
+gamma : 8.40405e+21
+alpha : 1.25884e+07
+values for 704 are : 
+beta : 1.67738e-21
+gamma : 2.74224e+15
+alpha : 4.59975e-06
+values for 705 are : 
+beta : 1.21021e-28
+gamma : 1.42774e+17
+alpha : 1.72786e-11
+values for 706 are : 
+beta : 3.19701e-21
+gamma : 2.62209e+18
+alpha : 0.00838282
+values for 707 are : 
+beta : 4.87761e-23
+gamma : 1.65569e+13
+alpha : 8.07576e-10
+values for 708 are : 
+beta : 7.21936e-26
+gamma : 3.8916e+12
+alpha : 2.80948e-13
+values for 709 are : 
+beta : 5.26502e-24
+gamma : 1.52476e+14
+alpha : 8.02786e-10
+failcount is 39
+values for 710 are : 
+beta : 6.67747e-22
+gamma : 4.46212e+19
+alpha : 0.0297956
+values for 711 are : 
+beta : 7.3528e-28
+gamma : 2.26413e+09
+alpha : 1.66477e-18
+values for 712 are : 
+beta : 1.12494e-25
+gamma : 1.55349e+15
+alpha : 1.74757e-10
+values for 713 are : 
+beta : 1.47946e-22
+gamma : 6.50035e+12
+alpha : 9.61694e-10
+values for 714 are : 
+beta : 1.23918e-24
+gamma : 1.50365e+16
+alpha : 1.86329e-08
+values for 715 are : 
+beta : 4.17323e-22
+gamma : 6.00594e+14
+alpha : 2.50642e-07
+values for 716 are : 
+beta : 2.26771e-26
+gamma : 1.44823e+13
+alpha : 3.28416e-13
+failcount is 40
+values for 717 are : 
+beta : 3.36447e-22
+gamma : 1.55905e+20
+alpha : 0.0524536
+values for 718 are : 
+beta : 2.90474e-26
+gamma : 1.35868e+16
+alpha : 3.9466e-10
+values for 719 are : 
+beta : 4.20886e-27
+gamma : 1.23818e+09
+alpha : 5.21131e-18
+values for 720 are : 
+beta : 3.00906e-28
+gamma : 7.57094e+08
+alpha : 2.27814e-19
+values for 721 are : 
+beta : 1.27028e-23
+gamma : 1.81125e+18
+alpha : 2.30077e-05
+values for 722 are : 
+beta : 1.19107e-27
+gamma : 2.0335e+09
+alpha : 2.42202e-18
+values for 723 are : 
+beta : 5.08762e-28
+gamma : 1.55993e+10
+alpha : 7.93629e-18
+values for 724 are : 
+beta : 1.65674e-27
+gamma : 7.61821e+11
+alpha : 1.26214e-15
+values for 725 are : 
+beta : 7.11306e-24
+gamma : 7.1836e+13
+alpha : 5.10974e-10
+values for 726 are : 
+beta : 4.38794e-28
+gamma : 1.66037e+10
+alpha : 7.2856e-18
+values for 727 are : 
+beta : 3.01126e-22
+gamma : 2.03036e+17
+alpha : 6.11394e-05
+values for 728 are : 
+beta : 2.04318e-20
+gamma : 1.07742e+15
+alpha : 2.20134e-05
+values for 729 are : 
+beta : 4.18323e-25
+gamma : 1.23579e+14
+alpha : 5.16957e-11
+values for 730 are : 
+beta : 5.74575e-25
+gamma : 1.27018e+10
+alpha : 7.2981e-15
+values for 731 are : 
+beta : 3.4122e-24
+gamma : 3.72071e+12
+alpha : 1.26958e-11
+values for 732 are : 
+beta : 3.79091e-25
+gamma : 5.88046e+10
+alpha : 2.22923e-14
+values for 733 are : 
+beta : 4.97605e-29
+gamma : 7.27057e+08
+alpha : 3.61788e-20
+values for 734 are : 
+beta : 5.90829e-26
+gamma : 8.4319e+11
+alpha : 4.98181e-14
+values for 735 are : 
+beta : 2.15031e-28
+gamma : 4.21299e+09
+alpha : 9.05919e-19
+values for 736 are : 
+beta : 4.86493e-29
+gamma : 2.39863e+09
+alpha : 1.16692e-19
+values for 737 are : 
+beta : 1.25407e-26
+gamma : 2.86138e+14
+alpha : 3.58835e-12
+values for 738 are : 
+beta : 4.1087e-24
+gamma : 3.56232e+09
+alpha : 1.46365e-14
+values for 739 are : 
+beta : 1.31065e-28
+gamma : 2.07845e+09
+alpha : 2.72411e-19
+values for 740 are : 
+beta : 5.00456e-24
+gamma : 9.42375e+08
+alpha : 4.71617e-15
+values for 741 are : 
+beta : 1.19092e-27
+gamma : 9.74725e+10
+alpha : 1.16082e-16
+values for 742 are : 
+beta : 7.88628e-24
+gamma : 1.95481e+18
+alpha : 1.54162e-05
+failcount is 41
+values for 743 are : 
+beta : 2.55949e-21
+gamma : 1.08035e+24
+alpha : 2765.14
+values for 744 are : 
+beta : 4.6375e-23
+gamma : 6.89105e+10
+alpha : 3.19573e-12
+values for 745 are : 
+beta : 1.27087e-26
+gamma : 8.22764e+20
+alpha : 1.04563e-05
+values for 746 are : 
+beta : 5.0217e-27
+gamma : 2.29371e+14
+alpha : 1.15183e-12
+values for 747 are : 
+beta : 2.0246e-30
+gamma : 1.29753e+08
+alpha : 2.62697e-22
+failcount is 42
+values for 748 are : 
+beta : 7.75846e-21
+gamma : 6.23009e+18
+alpha : 0.0483359
+values for 749 are : 
+beta : 1.04532e-25
+gamma : 4.06029e+11
+alpha : 4.24428e-14
+values for 750 are : 
+beta : 1.41775e-29
+gamma : 5.16524e+08
+alpha : 7.32302e-21
+values for 751 are : 
+beta : 5.34401e-25
+gamma : 1.16939e+19
+alpha : 6.24922e-06
+values for 752 are : 
+beta : 1.3791e-27
+gamma : 9.46393e+11
+alpha : 1.30517e-15
+values for 753 are : 
+beta : 8.19712e-26
+gamma : 3.08762e+17
+alpha : 2.53096e-08
+values for 754 are : 
+beta : 3.21189e-29
+gamma : 1.6243e+09
+alpha : 5.21706e-20
+values for 755 are : 
+beta : 4.15158e-28
+gamma : 3.69944e+10
+alpha : 1.53585e-17
+values for 756 are : 
+beta : 1.34369e-28
+gamma : 1.55383e+10
+alpha : 2.08786e-18
+values for 757 are : 
+beta : 4.9607e-24
+gamma : 4.98186e+10
+alpha : 2.47135e-13
+values for 758 are : 
+beta : 8.07301e-27
+gamma : 5.23696e+17
+alpha : 4.2278e-09
+values for 759 are : 
+beta : 1.1959e-27
+gamma : 2.25432e+15
+alpha : 2.69591e-12
+values for 760 are : 
+beta : 2.94106e-28
+gamma : 7.2522e+09
+alpha : 2.13292e-18
+values for 761 are : 
+beta : 9.83943e-27
+gamma : 8.19234e+10
+alpha : 8.06079e-16
+values for 762 are : 
+beta : 6.99057e-30
+gamma : 5.02841e+10
+alpha : 3.51514e-19
+values for 763 are : 
+beta : 3.42155e-26
+gamma : 4.18477e+18
+alpha : 1.43184e-07
+values for 764 are : 
+beta : 2.52199e-26
+gamma : 4.65831e+11
+alpha : 1.17482e-14
+values for 765 are : 
+beta : 4.57321e-24
+gamma : 5.18525e+14
+alpha : 2.37133e-09
+values for 766 are : 
+beta : 1.91676e-25
+gamma : 1.69123e+11
+alpha : 3.24167e-14
+values for 767 are : 
+beta : 5.40501e-23
+gamma : 1.03898e+14
+alpha : 5.6157e-09
+values for 768 are : 
+beta : 2.87561e-28
+gamma : 2.97912e+10
+alpha : 8.56677e-18
+values for 769 are : 
+beta : 4.35799e-29
+gamma : 1.21909e+09
+alpha : 5.31277e-20
+values for 770 are : 
+beta : 2.94999e-20
+gamma : 1.31926e+16
+alpha : 0.000389178
+values for 771 are : 
+beta : 1.48502e-21
+gamma : 1.45224e+19
+alpha : 0.0215658
+values for 772 are : 
+beta : 8.43964e-28
+gamma : 7.63352e+15
+alpha : 6.44241e-12
+values for 773 are : 
+beta : 1.59423e-28
+gamma : 2.64692e+11
+alpha : 4.21977e-17
+values for 774 are : 
+beta : 2.22162e-28
+gamma : 3.21946e+09
+alpha : 7.1524e-19
+values for 775 are : 
+beta : 1.76283e-26
+gamma : 1.92873e+11
+alpha : 3.4e-15
+values for 776 are : 
+beta : 1.84809e-27
+gamma : 2.45357e+15
+alpha : 4.53441e-12
+values for 777 are : 
+beta : 4.69834e-25
+gamma : 4.96651e+14
+alpha : 2.33343e-10
+values for 778 are : 
+beta : 1.19409e-26
+gamma : 1.09546e+14
+alpha : 1.30808e-12
+values for 779 are : 
+beta : 4.03343e-25
+gamma : 1.43141e+17
+alpha : 5.77348e-08
+values for 780 are : 
+beta : 4.30277e-23
+gamma : 2.86927e+19
+alpha : 0.00123458
+values for 781 are : 
+beta : 4.45281e-28
+gamma : 2.33033e+09
+alpha : 1.03765e-18
+values for 782 are : 
+beta : 3.31894e-25
+gamma : 5.04089e+11
+alpha : 1.67304e-13
+values for 783 are : 
+beta : 1.82762e-23
+gamma : 6.82869e+11
+alpha : 1.24803e-11
+values for 784 are : 
+beta : 1.82712e-23
+gamma : 1.0635e+12
+alpha : 1.94312e-11
+values for 785 are : 
+beta : 2.0631e-28
+gamma : 5.7889e+09
+alpha : 1.19431e-18
+values for 786 are : 
+beta : 2.80922e-28
+gamma : 4.05646e+09
+alpha : 1.13955e-18
+values for 787 are : 
+beta : 8.66421e-29
+gamma : 1.85629e+09
+alpha : 1.60833e-19
+values for 788 are : 
+beta : 1.79659e-26
+gamma : 2.23731e+15
+alpha : 4.01952e-11
+values for 789 are : 
+beta : 9.81657e-24
+gamma : 2.45408e+11
+alpha : 2.40907e-12
+values for 790 are : 
+beta : 8.93076e-29
+gamma : 1.40666e+10
+alpha : 1.25626e-18
+values for 791 are : 
+beta : 1.48775e-22
+gamma : 9.37038e+09
+alpha : 1.39408e-12
+values for 792 are : 
+beta : 3.09526e-27
+gamma : 5.1473e+12
+alpha : 1.59322e-14
+failcount is 43
+values for 793 are : 
+beta : 1.24681e-20
+gamma : 5.93925e+18
+alpha : 0.0740509
+values for 794 are : 
+beta : 2.36933e-23
+gamma : 3.35009e+11
+alpha : 7.93747e-12
+values for 795 are : 
+beta : 3.9021e-28
+gamma : 4.57424e+08
+alpha : 1.78491e-19
+values for 796 are : 
+beta : 1.26152e-24
+gamma : 3.77995e+11
+alpha : 4.76848e-13
+values for 797 are : 
+beta : 3.71992e-27
+gamma : 5.18309e+12
+alpha : 1.92807e-14
+failcount is 44
+values for 798 are : 
+beta : 1.50806e-20
+gamma : 6.44897e+19
+alpha : 0.972543
+values for 799 are : 
+beta : 5.64849e-22
+gamma : 2.00561e+14
+alpha : 1.13287e-07
+values for 800 are : 
+beta : 2.2842e-27
+gamma : 5.00168e+10
+alpha : 1.14248e-16
+values for 801 are : 
+beta : 1.32626e-28
+gamma : 9.05922e+08
+alpha : 1.20149e-19
+values for 802 are : 
+beta : 2.35245e-27
+gamma : 1.25421e+09
+alpha : 2.95044e-18
+values for 803 are : 
+beta : 6.85921e-27
+gamma : 3.67684e+16
+alpha : 2.52202e-10
+values for 804 are : 
+beta : 8.62496e-26
+gamma : 3.05397e+08
+alpha : 2.63404e-17
+values for 805 are : 
+beta : 1.1555e-27
+gamma : 1.82714e+12
+alpha : 2.11125e-15
+values for 806 are : 
+beta : 5.97643e-29
+gamma : 3.59659e+13
+alpha : 2.14948e-15
+values for 807 are : 
+beta : 3.5379e-25
+gamma : 3.79699e+08
+alpha : 1.34334e-16
+values for 808 are : 
+beta : 4.54062e-28
+gamma : 4.17476e+14
+alpha : 1.8956e-13
+values for 809 are : 
+beta : 1.4771e-27
+gamma : 7.7618e+09
+alpha : 1.14649e-17
+values for 810 are : 
+beta : 3.87461e-28
+gamma : 3.09153e+09
+alpha : 1.19785e-18
+values for 811 are : 
+beta : 2.19349e-27
+gamma : 7.59846e+11
+alpha : 1.66671e-15
+values for 812 are : 
+beta : 5.03574e-25
+gamma : 6.35922e+15
+alpha : 3.20233e-09
+values for 813 are : 
+beta : 5.54003e-28
+gamma : 9.78328e+09
+alpha : 5.41996e-18
+values for 814 are : 
+beta : 3.99802e-25
+gamma : 4.83229e+14
+alpha : 1.93196e-10
+values for 815 are : 
+beta : 5.99491e-27
+gamma : 3.90977e+16
+alpha : 2.34387e-10
+values for 816 are : 
+beta : 6.25572e-27
+gamma : 5.49867e+15
+alpha : 3.43982e-11
+values for 817 are : 
+beta : 4.074e-25
+gamma : 1.11412e+09
+alpha : 4.53891e-16
+values for 818 are : 
+beta : 4.28784e-22
+gamma : 4.76738e+08
+alpha : 2.04417e-13
+values for 819 are : 
+beta : 2.97408e-23
+gamma : 2.6045e+10
+alpha : 7.74599e-13
+values for 820 are : 
+beta : 7.56866e-30
+gamma : 2.73479e+08
+alpha : 2.06987e-21
+values for 821 are : 
+beta : 2.20079e-21
+gamma : 3.88281e+13
+alpha : 8.54522e-08
+values for 822 are : 
+beta : 2.20836e-24
+gamma : 2.47963e+11
+alpha : 5.47591e-13
+values for 823 are : 
+beta : 3.00685e-28
+gamma : 4.77896e+09
+alpha : 1.43696e-18
+values for 824 are : 
+beta : 9.81876e-26
+gamma : 1.16176e+14
+alpha : 1.1407e-11
+values for 825 are : 
+beta : 1.15876e-27
+gamma : 1.43691e+16
+alpha : 1.66502e-11
+values for 826 are : 
+beta : 2.28392e-29
+gamma : 2.07669e+08
+alpha : 4.74299e-21
+values for 827 are : 
+beta : 5.38174e-29
+gamma : 4.04334e+12
+alpha : 2.17602e-16
+values for 828 are : 
+beta : 2.12788e-21
+gamma : 9.44141e+16
+alpha : 0.000200902
+values for 829 are : 
+beta : 1.72458e-26
+gamma : 1.36528e+13
+alpha : 2.35453e-13
+values for 830 are : 
+beta : 3.42466e-28
+gamma : 5.2202e+09
+alpha : 1.78774e-18
+values for 831 are : 
+beta : 3.90399e-29
+gamma : 1.68562e+09
+alpha : 6.58064e-20
+values for 832 are : 
+beta : 3.32336e-29
+gamma : 1.25038e+09
+alpha : 4.15546e-20
+values for 833 are : 
+beta : 6.34096e-28
+gamma : 5.6872e+13
+alpha : 3.60623e-14
+values for 834 are : 
+beta : 3.54603e-27
+gamma : 1.67515e+08
+alpha : 5.94009e-19
+values for 835 are : 
+beta : 3.33506e-24
+gamma : 5.64322e+15
+alpha : 1.88205e-08
+values for 836 are : 
+beta : 3.41886e-26
+gamma : 1.2421e+11
+alpha : 4.24655e-15
+values for 837 are : 
+beta : 4.54736e-24
+gamma : 5.18301e+14
+alpha : 2.3569e-09
+values for 838 are : 
+beta : 1.91157e-24
+gamma : 7.33589e+11
+alpha : 1.4023e-12
+values for 839 are : 
+beta : 3.71585e-24
+gamma : 1.03431e+16
+alpha : 3.84331e-08
+values for 840 are : 
+beta : 2.2031e-25
+gamma : 7.69773e+13
+alpha : 1.69588e-11
+values for 841 are : 
+beta : 2.66137e-26
+gamma : 2.41573e+10
+alpha : 6.42912e-16
+values for 842 are : 
+beta : 1.37534e-22
+gamma : 2.91146e+11
+alpha : 4.00423e-11
+values for 843 are : 
+beta : 4.70323e-26
+gamma : 2.22012e+14
+alpha : 1.04418e-11
+values for 844 are : 
+beta : 1.25261e-24
+gamma : 4.84016e+14
+alpha : 6.06279e-10
+values for 845 are : 
+beta : 7.57259e-23
+gamma : 7.41852e+14
+alpha : 5.61774e-08
+values for 846 are : 
+beta : 1.84929e-23
+gamma : 1.80367e+15
+alpha : 3.33548e-08
+values for 847 are : 
+beta : 6.33913e-23
+gamma : 2.39944e+13
+alpha : 1.52104e-09
+failcount is 45
+values for 848 are : 
+beta : 1.22359e-21
+gamma : 7.68486e+20
+alpha : 0.940311
+values for 849 are : 
+beta : 4.92133e-25
+gamma : 5.23976e+10
+alpha : 2.57866e-14
+values for 850 are : 
+beta : 6.50554e-26
+gamma : 2.17844e+14
+alpha : 1.41719e-11
+values for 851 are : 
+beta : 1.09299e-27
+gamma : 2.79723e+09
+alpha : 3.05732e-18
+values for 852 are : 
+beta : 1.44284e-28
+gamma : 4.79222e+12
+alpha : 6.91438e-16
+values for 853 are : 
+beta : 6.39575e-22
+gamma : 5.19285e+13
+alpha : 3.32122e-08
+failcount is 46
+values for 854 are : 
+beta : 4.9521e-19
+gamma : 1.3901e+17
+alpha : 0.0688386
+failcount is 47
+values for 855 are : 
+beta : 1.97191e-19
+gamma : 4.13841e+18
+alpha : 0.816054
+values for 856 are : 
+beta : 4.24411e-26
+gamma : 6.81859e+16
+alpha : 2.89388e-09
+failcount is 48
+values for 857 are : 
+beta : 7.39002e-18
+gamma : 9.55751e+17
+alpha : 7.06302
+values for 858 are : 
+beta : 1.97775e-30
+gamma : 9.16543e+07
+alpha : 1.81269e-22
+values for 859 are : 
+beta : 2.4782e-25
+gamma : 2.9184e+10
+alpha : 7.23235e-15
+values for 860 are : 
+beta : 2.6353e-27
+gamma : 9.13252e+09
+alpha : 2.40669e-17
+values for 861 are : 
+beta : 1.70899e-20
+gamma : 2.11408e+15
+alpha : 3.61291e-05
+values for 862 are : 
+beta : 5.12591e-29
+gamma : 1.13986e+11
+alpha : 5.84278e-18
+values for 863 are : 
+beta : 1.68136e-28
+gamma : 2.95992e+10
+alpha : 4.97668e-18
+values for 864 are : 
+beta : 1.9828e-25
+gamma : 9.49552e+12
+alpha : 1.88277e-12
+values for 865 are : 
+beta : 1.46029e-25
+gamma : 7.22421e+09
+alpha : 1.05494e-15
+values for 866 are : 
+beta : 5.07845e-26
+gamma : 1.13147e+15
+alpha : 5.74611e-11
+values for 867 are : 
+beta : 1.0972e-26
+gamma : 5.86857e+09
+alpha : 6.43898e-17
+values for 868 are : 
+beta : 3.48863e-30
+gamma : 3.19531e+08
+alpha : 1.11473e-21
+values for 869 are : 
+beta : 5.26609e-26
+gamma : 9.94178e+13
+alpha : 5.23543e-12
+values for 870 are : 
+beta : 1.02159e-27
+gamma : 9.72591e+11
+alpha : 9.93584e-16
+values for 871 are : 
+beta : 8.70245e-27
+gamma : 1.02622e+10
+alpha : 8.93063e-17
+values for 872 are : 
+beta : 9.99456e-24
+gamma : 4.20962e+10
+alpha : 4.20733e-13
+values for 873 are : 
+beta : 1.37967e-21
+gamma : 1.00159e+15
+alpha : 1.38185e-06
+values for 874 are : 
+beta : 7.78044e-30
+gamma : 4.53599e+08
+alpha : 3.5292e-21
+values for 875 are : 
+beta : 1.15364e-23
+gamma : 4.26876e+16
+alpha : 4.92459e-07
+values for 876 are : 
+beta : 1.37901e-28
+gamma : 2.2749e+08
+alpha : 3.1371e-20
+values for 877 are : 
+beta : 1.35535e-23
+gamma : 3.48769e+08
+alpha : 4.72703e-15
+values for 878 are : 
+beta : 9.55639e-24
+gamma : 1.04889e+15
+alpha : 1.00236e-08
+values for 879 are : 
+beta : 9.20364e-28
+gamma : 1.71157e+15
+alpha : 1.57526e-12
+values for 880 are : 
+beta : 6.4609e-25
+gamma : 1.41843e+16
+alpha : 9.16433e-09
+failcount is 49
+values for 881 are : 
+beta : 1.60099e-21
+gamma : 2.12543e+19
+alpha : 0.0340278
+values for 882 are : 
+beta : 4.59418e-25
+gamma : 2.3268e+17
+alpha : 1.06898e-07
+values for 883 are : 
+beta : 6.05667e-24
+gamma : 6.44047e+12
+alpha : 3.90078e-11
+values for 884 are : 
+beta : 8.83807e-25
+gamma : 1.78336e+15
+alpha : 1.57615e-09
+values for 885 are : 
+beta : 8.79265e-29
+gamma : 4.59158e+09
+alpha : 4.03721e-19
+values for 886 are : 
+beta : 1.82903e-27
+gamma : 1.93277e+10
+alpha : 3.53508e-17
+values for 887 are : 
+beta : 4.04993e-23
+gamma : 1.46941e+12
+alpha : 5.95097e-11
+values for 888 are : 
+beta : 1.77611e-26
+gamma : 1.08056e+13
+alpha : 1.91919e-13
+values for 889 are : 
+beta : 8.30557e-27
+gamma : 8.49173e+10
+alpha : 7.05286e-16
+values for 890 are : 
+beta : 1.53725e-26
+gamma : 6.91509e+13
+alpha : 1.06302e-12
+values for 891 are : 
+beta : 1.58782e-24
+gamma : 2.67946e+13
+alpha : 4.25449e-11
+values for 892 are : 
+beta : 8.09577e-19
+gamma : 1.8933e+16
+alpha : 0.0153277
+values for 893 are : 
+beta : 1.01014e-27
+gamma : 1.71032e+11
+alpha : 1.72765e-16
+values for 894 are : 
+beta : 1.55804e-29
+gamma : 8.461e+08
+alpha : 1.31826e-20
+values for 895 are : 
+beta : 1.51678e-27
+gamma : 2.31756e+16
+alpha : 3.51522e-11
+values for 896 are : 
+beta : 3.17861e-29
+gamma : 8.12327e+08
+alpha : 2.58207e-20
+values for 897 are : 
+beta : 5.92963e-28
+gamma : 7.00241e+10
+alpha : 4.15217e-17
+values for 898 are : 
+beta : 7.24596e-27
+gamma : 4.68874e+10
+alpha : 3.39744e-16
+values for 899 are : 
+beta : 1.67849e-28
+gamma : 1.80913e+10
+alpha : 3.03661e-18
+values for 900 are : 
+beta : 7.20609e-30
+gamma : 2.1555e+08
+alpha : 1.55327e-21
+values for 901 are : 
+beta : 4.65335e-23
+gamma : 1.29492e+09
+alpha : 6.0257e-14
+failcount is 50
+values for 902 are : 
+beta : 1.48286e-18
+gamma : 3.85418e+17
+alpha : 0.571517
+values for 903 are : 
+beta : 2.31108e-26
+gamma : 3.9024e+12
+alpha : 9.01873e-14
+values for 904 are : 
+beta : 3.98116e-22
+gamma : 4.62235e+09
+alpha : 1.84023e-12
+values for 905 are : 
+beta : 3.04928e-24
+gamma : 1.87531e+17
+alpha : 5.71833e-07
+values for 906 are : 
+beta : 2.13764e-21
+gamma : 3.3933e+14
+alpha : 7.25362e-07
+failcount is 51
+values for 907 are : 
+beta : 2.18944e-20
+gamma : 5.25423e+19
+alpha : 1.15038
+values for 908 are : 
+beta : 6.27223e-22
+gamma : 8.7343e+16
+alpha : 5.47836e-05
+values for 909 are : 
+beta : 1.47916e-28
+gamma : 3.56753e+09
+alpha : 5.27694e-19
+values for 910 are : 
+beta : 9.63156e-24
+gamma : 5.98482e+08
+alpha : 5.76431e-15
+values for 911 are : 
+beta : 5.89356e-27
+gamma : 5.34338e+14
+alpha : 3.14915e-12
+values for 912 are : 
+beta : 4.1704e-23
+gamma : 1.14669e+19
+alpha : 0.000478214
+values for 913 are : 
+beta : 3.05219e-22
+gamma : 1.02491e+18
+alpha : 0.000312822
+values for 914 are : 
+beta : 1.92337e-24
+gamma : 2.81713e+18
+alpha : 5.41837e-06
+values for 915 are : 
+beta : 3.02541e-21
+gamma : 5.64743e+16
+alpha : 0.000170858
+values for 916 are : 
+beta : 1.57356e-26
+gamma : 3.29544e+11
+alpha : 5.18557e-15
+values for 917 are : 
+beta : 1.49602e-26
+gamma : 6.15461e+10
+alpha : 9.20741e-16
+values for 918 are : 
+beta : 3.83584e-20
+gamma : 7.01675e+14
+alpha : 2.69151e-05
+values for 919 are : 
+beta : 2.0187e-25
+gamma : 4.9173e+10
+alpha : 9.9265e-15
+values for 920 are : 
+beta : 1.55422e-23
+gamma : 6.38673e+08
+alpha : 9.92635e-15
+values for 921 are : 
+beta : 2.89995e-27
+gamma : 6.25221e+14
+alpha : 1.81311e-12
+values for 922 are : 
+beta : 1.03363e-28
+gamma : 1.10005e+11
+alpha : 1.13704e-17
+values for 923 are : 
+beta : 1.10764e-21
+gamma : 1.46775e+14
+alpha : 1.62572e-07
+values for 924 are : 
+beta : 1.47834e-27
+gamma : 1.24238e+14
+alpha : 1.83666e-13
+values for 925 are : 
+beta : 6.60468e-27
+gamma : 1.56906e+15
+alpha : 1.03631e-11
+values for 926 are : 
+beta : 2.02333e-27
+gamma : 6.79329e+09
+alpha : 1.37451e-17
+values for 927 are : 
+beta : 1.88897e-29
+gamma : 1.03689e+09
+alpha : 1.95865e-20
+values for 928 are : 
+beta : 6.60426e-27
+gamma : 4.03947e+17
+alpha : 2.66777e-09
+values for 929 are : 
+beta : 1.18793e-27
+gamma : 1.2122e+11
+alpha : 1.44e-16
+values for 930 are : 
+beta : 7.17052e-29
+gamma : 3.79128e+09
+alpha : 2.71855e-19
+values for 931 are : 
+beta : 2.23218e-26
+gamma : 5.9992e+16
+alpha : 1.33913e-09
+values for 932 are : 
+beta : 4.29876e-25
+gamma : 1.56225e+13
+alpha : 6.71572e-12
+values for 933 are : 
+beta : 4.38836e-22
+gamma : 5.08274e+14
+alpha : 2.23049e-07
+values for 934 are : 
+beta : 1.225e-27
+gamma : 1.49181e+13
+alpha : 1.82747e-14
+values for 935 are : 
+beta : 2.90611e-28
+gamma : 1.04879e+11
+alpha : 3.04789e-17
+values for 936 are : 
+beta : 1.54645e-23
+gamma : 2.76537e+12
+alpha : 4.27648e-11
+values for 937 are : 
+beta : 1.99769e-23
+gamma : 4.42569e+14
+alpha : 8.84114e-09
+values for 938 are : 
+beta : 1.64906e-21
+gamma : 1.17137e+12
+alpha : 1.93165e-09
+values for 939 are : 
+beta : 1.1643e-23
+gamma : 6.46471e+15
+alpha : 7.52683e-08
+values for 940 are : 
+beta : 1.72059e-27
+gamma : 3.74675e+14
+alpha : 6.44658e-13
+values for 941 are : 
+beta : 1.66118e-24
+gamma : 1.00205e+16
+alpha : 1.66458e-08
+values for 942 are : 
+beta : 6.29852e-29
+gamma : 5.50881e+08
+alpha : 3.46973e-20
+values for 943 are : 
+beta : 8.04757e-24
+gamma : 1.5738e+08
+alpha : 1.26653e-15
+values for 944 are : 
+beta : 2.85705e-26
+gamma : 1.833e+16
+alpha : 5.23694e-10
+values for 945 are : 
+beta : 7.22e-21
+gamma : 1.56038e+18
+alpha : 0.011266
+values for 946 are : 
+beta : 2.37575e-25
+gamma : 2.64765e+18
+alpha : 6.29012e-07
+values for 947 are : 
+beta : 2.39151e-26
+gamma : 3.77673e+10
+alpha : 9.03204e-16
+values for 948 are : 
+beta : 3.95318e-21
+gamma : 2.05048e+18
+alpha : 0.00810591
+values for 949 are : 
+beta : 8.18343e-28
+gamma : 1.49735e+09
+alpha : 1.22534e-18
+values for 950 are : 
+beta : 8.2472e-30
+gamma : 8.98983e+08
+alpha : 7.41409e-21
+values for 951 are : 
+beta : 1.546e-29
+gamma : 7.08704e+08
+alpha : 1.09566e-20
+values for 952 are : 
+beta : 1.91312e-27
+gamma : 1.81135e+10
+alpha : 3.46531e-17
+values for 953 are : 
+beta : 3.19062e-24
+gamma : 1.99231e+10
+alpha : 6.35668e-14
+values for 954 are : 
+beta : 1.43398e-28
+gamma : 1.74717e+11
+alpha : 2.5054e-17
+values for 955 are : 
+beta : 2.97028e-27
+gamma : 2.95231e+12
+alpha : 8.76916e-15
+values for 956 are : 
+beta : 1.45853e-27
+gamma : 1.7725e+10
+alpha : 2.58523e-17
+values for 957 are : 
+beta : 1.0401e-26
+gamma : 1.6698e+09
+alpha : 1.73675e-17
+values for 958 are : 
+beta : 4.15279e-27
+gamma : 4.66578e+18
+alpha : 1.9376e-08
+values for 959 are : 
+beta : 8.40613e-27
+gamma : 3.76808e+15
+alpha : 3.16749e-11
+values for 960 are : 
+beta : 1.23435e-24
+gamma : 2.36584e+14
+alpha : 2.92025e-10
+values for 961 are : 
+beta : 1.41142e-19
+gamma : 3.519e+16
+alpha : 0.00496678
+values for 962 are : 
+beta : 4.55823e-29
+gamma : 3.40015e+11
+alpha : 1.54987e-17
+values for 963 are : 
+beta : 6.0119e-25
+gamma : 1.04347e+18
+alpha : 6.27321e-07
+values for 964 are : 
+beta : 2.9251e-25
+gamma : 1.54105e+09
+alpha : 4.50771e-16
+values for 965 are : 
+beta : 6.89036e-27
+gamma : 9.39055e+13
+alpha : 6.47042e-13
+values for 966 are : 
+beta : 1.38437e-26
+gamma : 3.95145e+11
+alpha : 5.47023e-15
+failcount is 52
+values for 967 are : 
+beta : 4.26944e-13
+gamma : 6.86219e+20
+alpha : 2.92977e+08
+values for 968 are : 
+beta : 1.99041e-27
+gamma : 1.24928e+10
+alpha : 2.48658e-17
+values for 969 are : 
+beta : 9.75369e-24
+gamma : 4.12431e+10
+alpha : 4.02272e-13
+values for 970 are : 
+beta : 1.07113e-26
+gamma : 5.49792e+08
+alpha : 5.88898e-18
+values for 971 are : 
+beta : 2.34802e-24
+gamma : 1.31356e+12
+alpha : 3.08425e-12
+values for 972 are : 
+beta : 1.74073e-27
+gamma : 3.66855e+11
+alpha : 6.38595e-16
+values for 973 are : 
+beta : 7.47548e-25
+gamma : 1.06737e+12
+alpha : 7.97903e-13
+values for 974 are : 
+beta : 5.06394e-27
+gamma : 2.28514e+11
+alpha : 1.15718e-15
+values for 975 are : 
+beta : 2.26106e-29
+gamma : 6.2968e+08
+alpha : 1.42375e-20
+failcount is 53
+values for 976 are : 
+beta : 7.95917e-19
+gamma : 6.23884e+20
+alpha : 496.56
+values for 977 are : 
+beta : 8.45755e-29
+gamma : 5.86207e+09
+alpha : 4.95788e-19
+values for 978 are : 
+beta : 3.98929e-22
+gamma : 2.04966e+16
+alpha : 8.17668e-06
+failcount is 54
+values for 979 are : 
+beta : 2.16524e-20
+gamma : 2.64527e+18
+alpha : 0.0572763
+values for 980 are : 
+beta : 2.92768e-26
+gamma : 5.8264e+10
+alpha : 1.70578e-15
+values for 981 are : 
+beta : 5.32548e-21
+gamma : 1.67177e+15
+alpha : 8.90293e-06
+values for 982 are : 
+beta : 3.76517e-23
+gamma : 2.81181e+13
+alpha : 1.0587e-09
+values for 983 are : 
+beta : 1.51418e-28
+gamma : 1.49923e+09
+alpha : 2.2701e-19
+values for 984 are : 
+beta : 4.55837e-23
+gamma : 2.9239e+12
+alpha : 1.33282e-10
+values for 985 are : 
+beta : 1.86729e-22
+gamma : 4.82637e+13
+alpha : 9.01219e-09
+values for 986 are : 
+beta : 7.22288e-25
+gamma : 2.61999e+13
+alpha : 1.89239e-11
+values for 987 are : 
+beta : 7.21999e-30
+gamma : 1.04901e+09
+alpha : 7.57377e-21
+values for 988 are : 
+beta : 3.69166e-29
+gamma : 3.69584e+08
+alpha : 1.36438e-20
+values for 989 are : 
+beta : 9.32727e-22
+gamma : 1.30673e+15
+alpha : 1.21882e-06
+values for 990 are : 
+beta : 1.74375e-22
+gamma : 4.23196e+18
+alpha : 0.000737944
+values for 991 are : 
+beta : 6.32211e-28
+gamma : 3.35251e+10
+alpha : 2.11949e-17
+values for 992 are : 
+beta : 1.30185e-24
+gamma : 4.64201e+09
+alpha : 6.04316e-15
+values for 993 are : 
+beta : 6.35522e-28
+gamma : 3.24593e+13
+alpha : 2.06286e-14
+values for 994 are : 
+beta : 3.18829e-26
+gamma : 1.56492e+16
+alpha : 4.98942e-10
+values for 995 are : 
+beta : 5.49582e-27
+gamma : 1.29342e+09
+alpha : 7.10839e-18
+values for 996 are : 
+beta : 5.4884e-27
+gamma : 3.37586e+10
+alpha : 1.85281e-16
+values for 997 are : 
+beta : 1.60637e-28
+gamma : 6.86464e+09
+alpha : 1.10272e-18
+values for 998 are : 
+beta : 1.22113e-29
+gamma : 5.3653e+08
+alpha : 6.5517e-21
+values for 999 are : 
+beta : 6.60717e-27
+gamma : 6.48954e+08
+alpha : 4.28775e-18
+values for 1000 are : 
+beta : 6.24011e-21
+gamma : 1.04051e+16
+alpha : 6.49285e-05
+54

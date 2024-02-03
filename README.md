@@ -2,7 +2,7 @@
 
 ### How to run codes ###
 
-* go to the directory of the repository
+* go to the main directory of the repository
 
 * open 'constants.cpp' or 'constantsMPFR.cpp' file depending on the precision required to use.
 * For 'constantsMPFR.cpp' file, go to the line of 'mpfr_set_default_prec(256);' and change 256 to a desired precision.

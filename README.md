@@ -31,4 +31,4 @@ The code is run by the file listing polynomials and points.
 
 * The first block consists of polynomials described in their coefficients and the degrees of each monomial.
 * The file contains a block for each polynomial which contains the real and imaginary parts of its coefficient followed by the degrees of each variable in the monomial. For example, if the polynomial system depends upon three variables, say $x, y$ and $z$, the term $(1/2+3i)*x*y^2*z$ is represented by the row $1/2~ 3~ 1~ 2~ 1$
-* Likewise, the polynomial $x^2-3xy+z^4$ is represented by the row $1 ~ 0 ~ 2 ~ 0~ 0 \\ -3 ~ 0 ~ 1 ~ 0 ~ 0 \\ 1 ~ 0 ~ 0 ~ 0 ~ 4$
+* Likewise, the polynomial $x^2-3xy+z^4$ is represented by the row $1 ~ 0 ~ 2 ~ 0~ 0 \textbackslash -3 ~ 0 ~ 1 ~ 0 ~ 0 \\ 1 ~ 0 ~ 0 ~ 0 ~ 4$

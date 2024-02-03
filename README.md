@@ -1,4 +1,4 @@
-# alphaTheoryOverRegions
+# The alpha theory over regions
 
 ### How to run codes ###
 

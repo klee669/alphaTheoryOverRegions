@@ -1,5 +1,0 @@
-values for 1 are : 
-beta^2 : 6.82479e-13
-gamma^2 : 1.70961e+06
-alpha^2 : 1.16678e-06
-0

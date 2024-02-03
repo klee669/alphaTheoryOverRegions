@@ -16,7 +16,7 @@ clang++ -std=c++11 -o output constants.cpp -I /path/to/mpfr/mpfi/gmp/include/dir
 ```
 This makes an executable file named 'output'.
 
-* run code with the input file 'input.txt'
+* run code with the input file 'input.txt'. This will generate the output file.
 
 ```
 ./output input.txt

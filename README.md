@@ -1,6 +1,6 @@
 # alphaTheoryOverRegions
 
-### How to Run Codes ###
+### How to run codes ###
 
 * go to the directory of the repository
 

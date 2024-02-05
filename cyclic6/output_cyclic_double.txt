@@ -1,6 +1,5 @@
-failcount is 1
 values for 1 are : 
-beta^2 : 1.62966e-05
-gamma^2 : 8.21407e+06
-alpha^2 : 133.861
-1
+beta^2 : 1.59051e-10
+gamma^2 : 1.74476e+06
+alpha^2 : 0.000277506
+0

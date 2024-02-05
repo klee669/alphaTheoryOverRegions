@@ -93,8 +93,8 @@ int main(int argc, char *arg[]) {
       while (iss >> str1 >> str2) {
 	realPart = divideFraction(str1);
 	imagPart = divideFraction(str2);
-	homotopy::Interval realP(realPart-pow(10,-20),realPart+pow(10,-20));
-	homotopy::Interval imagP(imagPart-pow(10,-20),imagPart+pow(10,-20));
+	homotopy::Interval realP(realPart-pow(10,-7),realPart+pow(10,-7));
+	homotopy::Interval imagP(imagPart-pow(10,-7),imagPart+pow(10,-7));
         homotopy::Complex<homotopy::Interval> value(realP, imagP);
         point.push_back(value);
       }
@@ -113,7 +113,7 @@ int main(int argc, char *arg[]) {
 
 
   // Open a file for writing
-  std::ofstream outputFile("output.txt");
+  std::ofstream outputFile("cyclic6/output_cyclic_double.txt");
   
   // Check if the file is successfully opened
   if (!outputFile.is_open()) {
